@@ -2,7 +2,7 @@
 
 ### Commitment
 
-Starting May 24, I will code for at least an hour every day for the next 100 days so that I can improve my JavaScript skills. Additional rules:
+Starting May 24, 2021 I will code for at least an hour every day for the next 100 days so that I can improve my JavaScript skills. Additional rules:
 
 1. I will [tweet](https://twitter.com/mariaionova) about my progress every day using the hashtag #100DaysOfCode
 2. I will push code to GitHub every day so that anyone can see my progress.
@@ -14,7 +14,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ### Daily Log
   
-## Day 1 of 100
+#### Day 1 of 100
   
 **Date**: May 24th, 2021
   
@@ -24,4 +24,16 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 2. Displayed a story, based on user input
 3. Coded a Quiz of 5 questions
   
-**Link to work:** [Day-1](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-1)
+**Link to work:** [Day-1](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-1)  
+
+#### Day 2 of 100
+  
+**Date**: May 25th, 2021
+  
+**Today's Progress**: Reviewed JavaScript Numbers and JavaScript Functions that I've learned in the past and solved the following challenges:
+  
+1. Generate a random number in a given range
+2. Count the characters in a name
+3. Check if a form field is empty and displayed an alert  
+
+**Link to work:** [Day-2](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-2)
