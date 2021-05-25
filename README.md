@@ -1,6 +1,6 @@
-## 100DaysOfCode-Challenge
+# 100DaysOfCode-Challenge
 
-### Commitment
+## Commitment
 
 Starting May 24, 2021 I will code for at least an hour every day for the next 100 days so that I can improve my JavaScript skills. Additional rules:
 
@@ -12,9 +12,9 @@ Starting May 24, 2021 I will code for at least an hour every day for the next 10
 
 Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
 
-### Daily Log
+## Daily Log
   
-#### Day 1 of 100
+### Day 1 of 100
   
 **Date**: May 24th, 2021
   
@@ -26,7 +26,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Link to work:** [Day-1](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-1)  
 
-#### Day 2 of 100
+### Day 2 of 100
   
 **Date**: May 25th, 2021
   
