@@ -24,7 +24,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 2. Displayed a story, based on user input
 3. Coded a Quiz of 5 questions
   
-**Link to work:** [Day-1](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-1)  
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-1)  
 
 ### Day 2 of 100
   
@@ -34,6 +34,18 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 1. Generate a random number in a given range
 2. Count the characters in a name
-3. Check if a form field is empty and displayed an alert  
+3. Check if a form field is empty and display an alert  
 
-**Link to work:** [Day-2](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-2)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-2) 
+
+### Day 3 of 100
+  
+**Date**: May 26th, 2021
+  
+**Today's Progress**: Continued reviewing JavaScript Basics that I've learned in the past and solved the following challenges:
+  
+1. Template literals + dynamic HTML
+2. Basic math operations based on user input
+3. Arrow functions
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-3)
