@@ -15,6 +15,18 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
   
+### Day 6 of 100
+  
+**Date**: May 29th, 2021
+  
+**Today's Progress**: Reviewed JavaScript Objects and completed the following exercises:
+  
+1. Loop through an object
+2. Convert an array of arrays into an array of objects (so I can use property names to identify the data)
+3. Create a script that builds a pet directory, then displays it on the page using an array of 'pet' objects.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-6)
+  
 ### Day 5 of 100
   
 **Date**: May 28th, 2021
