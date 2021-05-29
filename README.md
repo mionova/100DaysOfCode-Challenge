@@ -15,42 +15,18 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
   
-### Day 1 of 100
+### Day 5 of 100
   
-**Date**: May 24th, 2021
+**Date**: May 28th, 2021
   
-**Today's Progress**: Reviewed some fundamental programming concepts and syntax of the JavaScript programming language that I've learned in the past:
+**Today's Progress**: Continued reviewing JavaScript basics and completed the following exercises:
   
-1. Created a function that returns the larger of two numbers;
-2. Displayed a story, based on user input
-3. Coded a Quiz of 5 questions
-  
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-1)  
+1. Display a list of songs from an array on a web page
+2. Check if a product is in-stock and how it is positioned on the list
+3. Build a Quiz by creating a multidimensional array to hold quiz questions and answers
 
-### Day 2 of 100
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-5)
   
-**Date**: May 25th, 2021
-  
-**Today's Progress**: Reviewed JavaScript Numbers and JavaScript Functions that I've learned in the past and solved the following challenges:
-  
-1. Generate a random number in a given range
-2. Count the characters in a name
-3. Check if a form field is empty and display an alert  
-
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-2)
-
-### Day 3 of 100
-  
-**Date**: May 26th, 2021
-  
-**Today's Progress**: Continued reviewing JavaScript Basics that I've learned in the past and solved the following challenges:
-  
-1. Template literals + dynamic HTML
-2. Basic math operations based on user input
-3. Arrow functions
-
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-3)
-
 ### Day 4 of 100
   
 **Date**: May 27th, 2021
@@ -62,3 +38,39 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 3. Generate 10 circles on the screen with randomly generated backgrounds
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-4)
+  
+### Day 3 of 100
+  
+**Date**: May 26th, 2021
+  
+**Today's Progress**: Continued reviewing JavaScript Basics that I've learned in the past and solved the following challenges:
+  
+1. Template literals + dynamic HTML
+2. Basic math operations based on user input
+3. Arrow functions
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-3)
+  
+### Day 2 of 100
+  
+**Date**: May 25th, 2021
+  
+**Today's Progress**: Reviewed JavaScript Numbers and JavaScript Functions that I've learned in the past and solved the following challenges:
+  
+1. Generate a random number in a given range
+2. Count the characters in a name
+3. Check if a form field is empty and display an alert  
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-2)
+  
+### Day 1 of 100
+  
+**Date**: May 24th, 2021
+  
+**Today's Progress**: Reviewed some fundamental programming concepts and syntax of the JavaScript programming language that I've learned in the past:
+  
+1. Created a function that returns the larger of two numbers;
+2. Displayed a story, based on user input
+3. Coded a Quiz of 5 questions
+  
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-1)
