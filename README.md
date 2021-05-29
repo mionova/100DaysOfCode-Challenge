@@ -11,7 +11,7 @@ Starting May 24, 2021 I will code for at least an hour every day for the next 10
 5. I am allowed to skip a day every two weeks if life gets in the way, but I will need to add a day to the challenge for every day that I have skipped.
 6. While solving the challenges, I will be solely focused on JavaScript and will be using HTML/CSS if the files for that are provided. Designing beautiful and usable interfaces will be out of scope for this challenge.  
 
-Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
+Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.  
 
 ## Daily Log
   
