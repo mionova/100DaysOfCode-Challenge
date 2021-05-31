@@ -9,11 +9,23 @@ Starting May 24, 2021 I will code for at least an hour every day for the next 10
 3. I will update the [Daily Log](#daily-log) section below with my daily progress and provide a link so others can see my progress.
 4. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will _not_ count towards this challenge but I can use the excercises for the challenge if I code them myself before watching the solution.
 5. I am allowed to skip a day every two weeks if life gets in the way, but I will need to add a day to the challenge for every day that I have skipped.
-6. While solving the challenges, I will be solely focused on JavaScript and will be using HTML/CSS if the files for that are provided. Designing beautiful and usable interfaces will be out of scope for this challenge.  
+6. While solving the challenges, I will be solely focused on JavaScript for now and will be using HTML/CSS if the files for that are provided. Designing beautiful and usable interfaces will be out of scope for this challenge but I will try to come back and revisit the look and feel after the challenger is over.
 
 Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.  
 
 ## Daily Log
+  
+### Day 8 of 100
+  
+**Date**: May 31st, 2021
+  
+**Today's JavaScript Progress**: Practiced Object Literals in JavaScript and wrote a few scripts:
+  
+1. Create a simple object and print the properties and values to the console.
+2. Create a couple of functions to add to inventory and to process a sale.
+3. Write a couple of more functions, one to return a list of the names of all products and another one to calculate the total value of all the products in the array.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-8)
   
 ### Day 7 of 100
   
@@ -24,7 +36,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 1. Use a loop to create a number guessing game while tracking the guess attempts.
 2. Practice Let and Const in JavaScript.
 3. Practice Array Methods.
-4. Create a function that generates an array containing 10 random numbers.
+4. Create a function that generates an array of 10 random numbers.
 5. Create a multi-dimensional array of 52 elements (52 cards), and return them shuffled when the function is called.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-7)
