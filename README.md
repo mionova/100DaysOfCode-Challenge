@@ -24,7 +24,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 1. Use a loop to create a number guessing game while tracking the guess attempts.
 2. Practice Let and Const in JavaScript.
 3. Practice Array Methods.
-4. Create a function that generates an array containing 10 random members.
+4. Create a function that generates an array containing 10 random numbers.
 5. Create a multi-dimensional array of 52 elements (52 cards), and return them shuffled when the function is called.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-7)

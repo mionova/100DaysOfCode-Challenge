@@ -1,4 +1,4 @@
-//Create a function that uses a for loop to generate an array contiaining 10 random members and print all of them to the console. Use the console or Node.js to run the program
+//Create a function that uses a for loop to generate an array contiaining 10 random numbers and print all of them to the console. Use the console or Node.js to run the program
 function random100() {
   return Math.floor(Math.random() * 100) + 1;
 }
