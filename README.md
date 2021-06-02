@@ -14,6 +14,16 @@ Starting May 24, 2021 I will code for at least an hour every day for the next 10
 Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.  
 
 ## Daily Log
+
+### Day 9 of 100
+  
+**Date**: June 1st, 2021
+  
+**Today's JavaScript Progress**: Today I made some progress on a little project: A Random Quote Generator
+
+For this project, I'm creating an app that displays random famous quotes each time a button is clicked. All quotes have a source but some also display citation and year.
+
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-9)
   
 ### Day 8 of 100
   
