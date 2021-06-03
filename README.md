@@ -19,9 +19,9 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: June 2nd, 2021
   
-**Today's JavaScript Progress**: Today I finalizied my little project: A Random Quote Generator
+**Today's JavaScript Progress**: I finalizied my little project: A Random Quote Generator
 
-Currently the app displays random famous quotes each time a button is clicked and works as expected! I might try adding some bells and whisles over the next couple of days.
+Currently the app displays random famous quotes each time a button is clicked and works as expected! I might try adding some bells and whistles over the next couple of days.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-010)
 
@@ -29,7 +29,7 @@ Currently the app displays random famous quotes each time a button is clicked an
   
 **Date**: June 1st, 2021
   
-**Today's JavaScript Progress**: Today I made some progress on a little project: A Random Quote Generator
+**Today's JavaScript Progress**: I made some progress on a little project: A Random Quote Generator
 
 For this project, I'm creating an app that displays random famous quotes each time a button is clicked. All quotes have a source but some also display citation and year.
 
