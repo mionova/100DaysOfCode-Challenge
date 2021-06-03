@@ -15,6 +15,16 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 10 of 100
+  
+**Date**: June 2nd, 2021
+  
+**Today's JavaScript Progress**: Today I finalizied my little project: A Random Quote Generator
+
+Currently the app displays random famous quotes each time a button is clicked and works as expected! I might try adding some bells and whisles over the next couple of days.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-10)
+
 ### Day 9 of 100
   
 **Date**: June 1st, 2021
