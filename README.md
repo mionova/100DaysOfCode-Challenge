@@ -23,7 +23,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 Currently the app displays random famous quotes each time a button is clicked and works as expected! I might try adding some bells and whisles over the next couple of days.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-10)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day 010)
 
 ### Day 9 of 100
   
@@ -33,7 +33,7 @@ Currently the app displays random famous quotes each time a button is clicked an
 
 For this project, I'm creating an app that displays random famous quotes each time a button is clicked. All quotes have a source but some also display citation and year.
 
-[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-9)
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day 009)
   
 ### Day 8 of 100
   
@@ -45,7 +45,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Create a couple of functions to add to inventory and to process a sale.
 3. Write a couple of more functions, one to return a list of the names of all products and another one to calculate the total value of all the products in the array.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-8)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day 008)
   
 ### Day 7 of 100
   
@@ -59,7 +59,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 4. Create a function that generates an array of 10 random numbers.
 5. Create a multi-dimensional array of 52 elements (52 cards), and return them shuffled when the function is called.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-7)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day 007)
   
 ### Day 6 of 100
   
@@ -71,7 +71,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Convert an array of arrays into an array of objects (so I can use property names to identify the data).
 3. Create a script that builds a pet directory, then displays it on the page using an array of 'pet' objects.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-6)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day 006)
   
 ### Day 5 of 100
   
@@ -83,7 +83,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Check if a product is in-stock and how it is positioned on the list.
 3. Build a Quiz by creating a multidimensional array to hold quiz questions and answers.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-5)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day 005)
   
 ### Day 4 of 100
   
@@ -95,7 +95,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Display HTML dynamically using a loop.
 3. Generate 10 circles on the screen with randomly generated backgrounds.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-4)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day 004)
   
 ### Day 3 of 100
   
@@ -107,7 +107,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Basic math operations based on user input.
 3. Arrow functions.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-3)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day 003)
   
 ### Day 2 of 100
   
@@ -119,7 +119,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Count the characters in a name.
 3. Check if a form field is empty and display an alert.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-2)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day 002)
   
 ### Day 1 of 100
   
@@ -131,4 +131,4 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Displayed a story, based on user input.
 3. Coded a Quiz of 5 questions.
   
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/day-1)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day 001)
