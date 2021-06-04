@@ -15,11 +15,23 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 11 of 100
+  
+**Date**: June 3rd, 2021
+  
+**Today's JavaScript Progress**: Refactored a bit and added the following features to the Random Quote Generator:
+
+1. Auto-refreshed quotes using a timing function
+2. When a new quote prints to the page, the background color changes to a random color.
+3. Increased the quote object properties
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-011)
+
 ### Day 10 of 100
   
 **Date**: June 2nd, 2021
   
-**Today's JavaScript Progress**: I finalized my little project: A Random Quote Generator
+**Today's JavaScript Progress**: I finalized my Random Quote Generator
 
 Currently, the app displays random famous quotes each time a button is clicked and works as expected! I might try adding some bells and whistles over the next couple of days.
 
