@@ -1,9 +1,6 @@
 /**
- * Treehouse FSJS Techdegree - Project Warm Up
- * Random Array Index - color-changer
- * Developed by: Robert Manolis - Student Success Specialist
- *               Milwaukie, OR - 2019
- */
+ * Practice Developed by: Robert Manolis 
+ **/
 
 "use strict";
 
