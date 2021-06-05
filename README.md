@@ -15,6 +15,14 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 12 of 100
+  
+**Date**: June 4rd, 2021
+  
+**Today's JavaScript Progress**: Lightweight practice with functions, arrays and random numbers. Used JavaScript to create a function that grabs a random number from an array. And then I called that function a couple of times to simulate a dice roll game between two players.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-012)
+
 ### Day 11 of 100
   
 **Date**: June 3rd, 2021
