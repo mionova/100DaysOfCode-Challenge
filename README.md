@@ -19,9 +19,9 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: June 5th, 2021
   
-**Today's JavaScript Progress**: Mainly practiced writing conditions and ways to select and manupulate elements on the page (DOM basics).
+**Today's JavaScript Progress**: Mainly practiced writing conditions and ways to select and manupulate elements on the page (DOM basics). Solved the following challenges:
   
-1. Conditionally build a string from the properties of a provided random object.Then print that string to the page.
+1. Build a string conditionally from the properties of a provided random object.Then print that string to the page.
 2. Practice selecting DOM elements and listening for events.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-013)

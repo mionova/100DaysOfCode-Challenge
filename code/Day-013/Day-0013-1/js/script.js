@@ -1,6 +1,6 @@
 /*******************************************************************************************************************************
 100DaysOfCode-Challenge: Day 13
-Challenge 13-1 - Conditionally build a string from the properties of a provided random object.Then print that string to the page. 
+Challenge 13-1 - Build a string conditionally from the properties of a provided random object.Then print that string to the page. 
 **********************************s*********************************************************************************************/
 
 "use strict";
