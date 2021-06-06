@@ -75,20 +75,20 @@ function printQuote() {
     html += '';
   } else return 'You need to add a quote and sourse!'
   
-  // checks if citation exist and generates html
+  // checks if citation exists and generates html
   if (selectedQuote.citation !== undefined) {
     html += 
     `<span class="citation">${selectedQuote.citation}</span>`
   }  
   
-  // checks if year exist and generates html
+  // checks if year exists and generates html
   if (selectedQuote.year !== undefined){
     html +=
     `<span class="citation">${selectedQuote.year}</span></p>
   `
   }  
 
-   //checks if this is my favorite quote in the list
+   //checks if favorite exists and generates html
    if (selectedQuote.like === 'Yes') {
     html += `
     <span class="favorite">👍</span>
