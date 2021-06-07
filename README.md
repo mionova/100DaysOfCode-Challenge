@@ -26,7 +26,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 3. Use CSS queries to select page elements.
 4. Set variable to refer to a collection.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-013)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-014)
 
 
 ### Day 13 of 100
