@@ -23,7 +23,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 1. Select all elements of a particular type.
 2. Select element by class.
-3. Select all elements of a particular type.
+3. Use CSS queries to select page elements.
 4. Set variable to refer to a collection.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-013)
