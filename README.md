@@ -15,6 +15,19 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 15 of 100
+  
+**Date**: June 7th, 2021
+  
+**Today's JavaScript Progress**: Continued getting a handle on the DOM by practicing to:
+  
+1. Select elements.
+2. Get and Set Text with textContent and innerHTML.
+3. Set Element.attribute and Element.className.
+4. Hide and show content on a click of a button.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-015)
+
 ### Day 14 of 100
   
 **Date**: June 6th, 2021
@@ -27,7 +40,6 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 4. Set variable to refer to a collection.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-014)
-
 
 ### Day 13 of 100
   
