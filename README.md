@@ -15,6 +15,18 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 16 of 100
+  
+**Date**: June 8th, 2021
+  
+**Today's JavaScript Progress**: Continued making changes to the DOM by practicing to:
+  
+1. Create-DOM-elements.
+2. Append nodes to add elements to the DOM.
+3. Remove nodes to remove an element from the DOM.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-016)
+
 ### Day 15 of 100
   
 **Date**: June 7th, 2021
