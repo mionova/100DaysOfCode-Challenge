@@ -15,6 +15,18 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 17 of 100
+  
+**Date**: June 10th, 2021
+  
+**Today's JavaScript Progress**: Continued making changes to the DOM by practicing responses to user interactions, such as:
+  
+1. Listening for Events with addEventListener().
+2. Event Bubbling and Delegation.
+3. Event object.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-016)
+
 ### Day 16 of 100
   
 **Date**: June 8th, 2021
