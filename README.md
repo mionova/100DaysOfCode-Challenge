@@ -15,6 +15,19 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 18 of 100
+  
+**Date**: June 11th, 2021
+  
+**Today's JavaScript Progress**: Continued making changes to the DOM by practicing:
+  
+1. Setting up functions as parameters.
+2. Delaying execution of a function with setTime().
+3. Using parent node.
+4. Using previous sibling element.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-018)
+
 ### Day 17 of 100
   
 **Date**: June 10th, 2021
@@ -25,7 +38,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 2. Event Bubbling and Delegation.
 3. Event object.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-016)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-017)
 
 ### Day 16 of 100
   
