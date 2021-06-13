@@ -1,7 +1,7 @@
-/************************************************************
+/*************************************************************
 100DaysOfCode-Challenge: Day 19
-Challenge 19-1 - Code structure methodologies: Narrative flow
-*************************************************************/
+Challenge 19-2 - Code structure methodologies: Iterative Coding
+**************************************************************/
 
 //using iterative coding approach to make code more readable and easier to follow
 const word = "computer";
