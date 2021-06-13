@@ -15,6 +15,19 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 19 of 100
+  
+**Date**: June 12th, 2021
+  
+**Today's JavaScript Progress**: Practiced the following code structure methodologies: 
+  
+1. Narative Flow
+2. Iterative Coding.
+3. KISS.
+4. DRY.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-019)
+
 ### Day 18 of 100
   
 **Date**: June 11th, 2021
