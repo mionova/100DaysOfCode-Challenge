@@ -15,6 +15,18 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 20 of 100
+  
+**Date**: June 13th, 2021
+  
+**Today's JavaScript Progress**: Continued reviewing JavaScript Basics and practiced the following: 
+  
+1. Next Element Sibling
+2. Getting all children
+3. Getting first and last child
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-020)
+
 ### Day 19 of 100
   
 **Date**: June 12th, 2021
