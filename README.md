@@ -19,9 +19,9 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: June 13th, 2021
   
-**Today's JavaScript Progress**: Continued reviewing JavaScript Basics and practiced the following: 
+**Today's JavaScript Progress**: Continued reviewing JavaScript Basics and practiced the following:
   
-1. Next Element Sibling
+1. Next element sibling
 2. Getting all children
 3. Getting first and last child
 
@@ -31,7 +31,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: June 12th, 2021
   
-**Today's JavaScript Progress**: Practiced the following code structure methodologies: 
+**Today's JavaScript Progress**: Refactored code that was provided to practice the following code structure methodologies: 
   
 1. Narrative flow
 2. Iterative Coding
