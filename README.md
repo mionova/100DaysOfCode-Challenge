@@ -19,7 +19,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: June 14th, 2021
   
-**Today's JavaScript Progress**: Refactored some old excercises. Explored the what and why of pseudocode by taking a simple specification and converting it into psuedocode. Also tried psuedocode for loops and fuctions.
+**Today's JavaScript Progress**: Refactored some old exercises. Explored the what and why of pseudocode by taking a simple specification and converting it into pseudocode. Also tried pseudocode for loops and functions.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-021)
 
