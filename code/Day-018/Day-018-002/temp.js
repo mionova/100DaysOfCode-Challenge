@@ -17,4 +17,4 @@ exec((something) => {
 
 window.setTimeout ((something) => {
   console.log(something);
-}, 50000, 'Greetings, everyone!');
+}, 3000, 'Greetings, everyone!');

@@ -15,6 +15,17 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 22 of 100
+  
+**Date**: June 15th, 2021
+  
+**Today's JavaScript Progress**: Completed the following challenges:
+  
+1. Translate pseudocode to functioning JavaScript code
+2. Select DOM elements(review)
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-022)
+
 ### Day 21 of 100
   
 **Date**: June 14th, 2021
