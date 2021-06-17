@@ -15,6 +15,17 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 23 of 100
+  
+**Date**: June 16th, 2021
+  
+**Today's JavaScript Progress**: Various changes to the DOM:
+  
+1. Manipulating the DOM practice 
+2. Traversing the DOM practice 
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-023)
+
 ### Day 22 of 100
   
 **Date**: June 15th, 2021
