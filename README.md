@@ -19,7 +19,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: June 17th, 2021
   
-**Today's JavaScript Progress**: Started coding an RSVP's application that allows to keep track of who's coming and editing the guest list - WIP
+**Today's JavaScript Progress**: Started coding an RSVP's application that allows for keeping track of who's coming and editing the guest list - WIP (HTML+CSS provided).
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-024)
 
