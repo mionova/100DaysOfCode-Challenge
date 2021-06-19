@@ -15,6 +15,14 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 25 of 100
+  
+**Date**: June 18th, 2021
+  
+**Today's JavaScript Progress**: Finished the RSVP's application (HTML+CSS provided). I was very sick and uproductive-the second dose hit me pretty hard.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-025)
+
 ### Day 24 of 100
   
 **Date**: June 17th, 2021
