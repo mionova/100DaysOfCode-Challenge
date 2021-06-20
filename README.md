@@ -18,10 +18,10 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 ### Day 26 of 100
   
 **Date**: June 19th, 2021
-  
+
 **Today's JavaScript Progress**: Lightweight algorithms practice. Still sick and unproductive from the second dose of the COVID vaccine.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-026
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-026)
 
 ### Day 25 of 100
   
