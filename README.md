@@ -15,11 +15,19 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 26 of 100
+  
+**Date**: June 19th, 2021
+  
+**Today's JavaScript Progress**: Lightweight algorithms practice. Still sick and unproductive from the second dose of the COVID vaccine.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-026
+
 ### Day 25 of 100
   
 **Date**: June 18th, 2021
   
-**Today's JavaScript Progress**: Finished the RSVP's application (HTML+CSS provided). I was very sick and uproductive-the second dose hit me pretty hard.
+**Today's JavaScript Progress**: Finished the RSVP's application (HTML+CSS provided). I was very sick and unproductive-the second dose hit me pretty hard.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-025)
 
