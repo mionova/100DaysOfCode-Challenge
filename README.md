@@ -15,25 +15,19 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
-<<<<<<< HEAD
 ### Day 28 of 100
   
 **Date**: June 22nd, 2021
 
-**Today's JavaScript Progress**: Review of some more DOM concepts. More algorithms practice:
+**Today's JavaScript Progress**: Review of some more DOM concepts. More algorithms practice!
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-028)
 
 ### Day 27 of 100
   
 **Date**: June 21st, 2021
-=======
-### Day 27 of 100
-  
-**Date**: June 21th, 2021
->>>>>>> 51c7656fc08c03f025d442902d3fac28053a5736
 
-**Today's JavaScript Progress**: Review of some of the DOM concepts. More algorithms practice:
+**Today's JavaScript Progress**: Review of some of the DOM concepts. More algorithms practice!
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-027)
 
