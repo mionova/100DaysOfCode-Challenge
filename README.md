@@ -21,7 +21,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Today's JavaScript Progress**: Review of some more DOM concepts. More algorithms practice!
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-028)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-028)  
 
 ### Day 27 of 100
   
@@ -29,7 +29,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Today's JavaScript Progress**: Review of some of the DOM concepts. More algorithms practice!
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-027)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-027)  
 
 ### Day 26 of 100
   
@@ -37,7 +37,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 **Today's JavaScript Progress**: Lightweight algorithms practice. Still sick and unproductive from the second dose of the COVID vaccine.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-026)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-026)  
 
 ### Day 25 of 100
   
@@ -45,7 +45,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Today's JavaScript Progress**: Finished the RSVP's application (HTML+CSS provided). I was very sick and unproductive-the second dose hit me pretty hard.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-025)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-025)  
 
 ### Day 24 of 100
   
@@ -53,7 +53,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Today's JavaScript Progress**: Started coding an RSVP's application that allows for keeping track of who's coming and editing the guest list - WIP (HTML+CSS provided).
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-024)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-024)  
 
 ### Day 23 of 100
   
@@ -64,7 +64,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 1. Manipulating the DOM practice 
 2. Traversing the DOM practice 
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-023)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-023)  
 
 ### Day 22 of 100
   
@@ -75,7 +75,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 1. Translate pseudocode to functioning JavaScript code
 2. Select DOM elements(review)
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-022)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-022)  
 
 ### Day 21 of 100
   
@@ -83,7 +83,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Today's JavaScript Progress**: Refactored some old exercises. Explored the what and why of pseudocode by taking a simple specification and converting it into pseudocode. Also tried pseudocode for loops and functions.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-021)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-021)  
 
 ### Day 20 of 100
   
@@ -95,7 +95,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 2. Getting all children
 3. Getting first and last child
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-020)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-020)  
 
 ### Day 19 of 100
   
@@ -108,7 +108,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 3. KISS
 4. DRY
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-019)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-019)  
 
 ### Day 18 of 100
   
@@ -121,7 +121,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 3. Using parent node.
 4. Using previous sibling element.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-018)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-018)  
 
 ### Day 17 of 100
   
@@ -133,7 +133,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 2. Event Bubbling and Delegation.
 3. Event object.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-017)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-017)  
 
 ### Day 16 of 100
   
@@ -145,7 +145,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 2. Append nodes to add elements to the DOM.
 3. Remove nodes to remove an element from the DOM.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-016)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-016)  
 
 ### Day 15 of 100
   
@@ -158,7 +158,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 3. Set Element.attribute and Element.className.
 4. Hide and show content on a click of a button.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-015)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-015)  
 
 ### Day 14 of 100
   
@@ -171,7 +171,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 3. Use CSS queries to select page elements.
 4. Set variable to refer to a collection.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-014)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-014)  
 
 ### Day 13 of 100
   
@@ -182,7 +182,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 1. Build a string conditionally from the properties of a provided random object.Then print that string to the page.
 2. Practice selecting DOM elements and listening for events.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-013)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-013)  
 
 ### Day 12 of 100
   
@@ -190,7 +190,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Today's JavaScript Progress**: Lightweight practice with functions, arrays and random numbers. Used JavaScript to create a function that grabs a random number from an array. And then I called that function a couple of times to simulate a dice roll game between two players.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-012)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-012)  
 
 ### Day 11 of 100
   
@@ -202,7 +202,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 2. When a new quote prints to the page, the background color changes to a random color.
 3. Increased the quote object properties
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-011)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-011)  
 
 ### Day 10 of 100
   
@@ -212,7 +212,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 Currently, the app displays random famous quotes each time a button is clicked and works as expected! I might try adding some bells and whistles over the next couple of days.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-010)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-010)  
 
 ### Day 9 of 100
   
@@ -222,7 +222,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 For this project, I'm creating an app that displays random famous quotes each time a button is clicked. All quotes have a source but some also display citation and year.
 
-[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-009)
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-009)  
   
 ### Day 8 of 100
   
@@ -234,7 +234,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Create a couple of functions to add to inventory and to process a sale.
 3. Write a couple of more functions, one to return a list of the names of all products and another one to calculate the total value of all the products in the array.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-008)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-008)  
   
 ### Day 7 of 100
   
@@ -248,7 +248,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 4. Create a function that generates an array of 10 random numbers.
 5. Create a multi-dimensional array of 52 elements (52 cards), and return them shuffled when the function is called.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-007)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-007)  
   
 ### Day 6 of 100
   
@@ -260,7 +260,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Convert an array of arrays into an array of objects (so I can use property names to identify the data).
 3. Create a script that builds a pet directory, then displays it on the page using an array of 'pet' objects.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-006)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-006)  
   
 ### Day 5 of 100
   
@@ -272,7 +272,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Check if a product is in-stock and how it is positioned on the list.
 3. Build a Quiz by creating a multidimensional array to hold quiz questions and answers.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-005)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-005)  
   
 ### Day 4 of 100
   
@@ -284,7 +284,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Display HTML dynamically using a loop.
 3. Generate 10 circles on the screen with randomly generated backgrounds.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-004)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-004)  
   
 ### Day 3 of 100
   
@@ -296,7 +296,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Basic math operations based on user input.
 3. Arrow functions.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-003)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-003)  
   
 ### Day 2 of 100
   
@@ -308,7 +308,7 @@ For this project, I'm creating an app that displays random famous quotes each ti
 2. Count the characters in a name.
 3. Check if a form field is empty and display an alert.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-002)
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-002)  
   
 ### Day 1 of 100
   
