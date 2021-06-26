@@ -203,14 +203,15 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Today's JavaScript Progress**: Mainly practiced writing conditions and ways to select and manipulate elements on the page (DOM basics). Solved the following challenges:
   
-1. Build a string conditionally from the properties of a provided random object.Then print that string to the page.
+1. Select an element with JavaScript and change its color on click
 2. Practice selecting DOM elements and listening for events.
+3. Build a string conditionally from the properties of a provided random object.Then print that string to the page.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-013)  
 
 ### Day 12 of 100
   
-**Date**: June 4rd, 2021
+**Date**: June 4th, 2021
   
 **Today's JavaScript Progress**: Lightweight practice with functions, arrays and random numbers. Used JavaScript to create a function that grabs a random number from an array. And then I called that function a couple of times to simulate a dice roll game between two players.
 
