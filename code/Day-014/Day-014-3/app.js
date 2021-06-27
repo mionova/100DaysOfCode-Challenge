@@ -16,7 +16,7 @@ for (let i = 0; i < errorNotPurple.length; i += 1) {
   errorNotPurple[i].style.color = 'red';
 }
 
-const evens = document.querySelectorAll('li:nth-child(odd)');
+const evens = document.querySelectorAll('li:nth-child(even)');
 
 for (let i = 0; i < evens.length; i += 1) {
   evens[i].style.backgroundColor = 'lightgray';
