@@ -17,7 +17,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ### Day 33 of 100
   
-**Date**: June 26th, 2021
+**Date**: June 27th, 2021
 
 **Today's JavaScript Progress**: One more day of algorithms and DOM manipulation with lots of note-taking.
 
