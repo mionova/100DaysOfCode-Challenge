@@ -15,13 +15,21 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 33 of 100
+  
+**Date**: June 26th, 2021
+
+**Today's JavaScript Progress**: One more day of algorithms and DOM manipulation with lots of note-taking.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-033)
+
 ### Day 32 of 100
   
 **Date**: June 26th, 2021
 
 **Today's JavaScript Progress**: One more day of practicing algorithms while going over all the DOM stuff.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-031) 
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-032)
 
 ### Day 31 of 100
   
@@ -93,8 +101,8 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Today's JavaScript Progress**: Various changes to the DOM:
   
-1. Manipulating the DOM practice 
-2. Traversing the DOM practice 
+1. Manipulating the DOM practice
+2. Traversing the DOM practice
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-023)  
 
@@ -121,7 +129,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: June 13th, 2021
   
-**Today's JavaScript Progress**: Continued reviewing JavaScript Basics and practiced the following:
+**Today's JavaScript Progress**: Continued with traversing the DOM and practiced the following:
   
 1. Next element sibling
 2. Getting all children
@@ -133,10 +141,10 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: June 12th, 2021
   
-**Today's JavaScript Progress**: Refactored code that was provided to practice the following code structure methodologies: 
+**Today's JavaScript Progress**: Refactored code that was provided to practice the following code structure methodologies:
   
 1. Narrative flow
-2. Iterative Coding
+2. Iterative coding
 3. KISS
 4. DRY
 
