@@ -15,6 +15,14 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 34 of 100
+  
+**Date**: June 28th, 2021
+
+**Today's JavaScript Progress**: Hopefully last day of algorithms:
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-034)
+
 ### Day 33 of 100
   
 **Date**: June 27th, 2021
