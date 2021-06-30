@@ -15,6 +15,14 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 35 of 100
+  
+**Date**: June 29th, 2021
+
+**Today's JavaScript Progress**: Debugging JavaScript in the browser using provided code that had various bugs.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-035)
+
 ### Day 34 of 100
   
 **Date**: June 28th, 2021
