@@ -15,6 +15,15 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 36 of 100
+  
+**Date**: June 30th, 2021
+
+**Today's JavaScript Progress**: Debugging JavaScript in the browser using buggy code that is provided. For some weird reason I struggled a bit.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-036)
+
+
 ### Day 35 of 100
   
 **Date**: June 29th, 2021
