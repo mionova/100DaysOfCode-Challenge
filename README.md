@@ -19,7 +19,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: July 1st, 2021
 
-**Today's JavaScript Progress**: Wrote a lightweight program that creates, appends and modifies DOM elements and their attributes. 
+**Today's JavaScript Progress**: Wrote a lightweight program that creates, appends, and modifies DOM elements and their attributes. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-037)
 
