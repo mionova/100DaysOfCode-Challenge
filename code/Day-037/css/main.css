@@ -1,0 +1,139 @@
+/**
+ * Treehouse FSJS Techdegree - Project Warm Up
+ * Fun Dom Manipulation - CSS
+ * Developed by: Guil Hernandez
+ * Modified by: Robert Manolis - Student Success Specialist
+ *              Milwaukie, OR - 2019
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+	background: #F0FCFF;
+  background-image: url('../img/island.png');
+  background-position: 100% -460px;
+  background-repeat: repeat-x;
+	background-size: 780px;
+  overflow: hidden;
+}
+
+h1, h2, p {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+  color: rgb(125,204,136);
+  text-shadow: 1px 1px 1px black;
+}
+
+h1 {
+  font-size: 4em;
+  margin-top: 150px;
+}
+
+.boat-container {
+	width: 380px;
+	position: absolute;
+	top: 150px;
+	left: 40%;
+  transform: rotate(0deg);
+}
+
+.boat-container img {
+	width: 100%;
+}
+
+.boat-container::after {
+	content: "";
+	display: block;
+	width: 120px;
+	height: 120px;
+	background: url('../img/steam.png') no-repeat;
+	background-size: 120px;
+	position: absolute;
+	top: -25%;
+	left: 5%;
+	opacity: 0;
+}
+
+.mike {
+	width: 180px;
+	position: absolute;
+	top: 250px;
+	left: -15%;
+	-webkit-transform: rotateZ(-5deg);
+	-moz-transform: rotateZ(-5deg);
+	-ms-transform: rotateZ(-5deg);
+	transform: rotateZ(-5deg);
+}
+
+#test-mdl, #test-btn {
+  position: fixed;
+  left: 50%;
+}
+
+#test-mdl, #test-btn, #mdl-close {
+  outline: none;
+  color: white;
+  text-shadow: 1px 1px 1px rgb(125,204,136);
+  background: rgba(0,0,0,0.7);
+  border: 2px solid rgb(125,204,136);
+  border-radius: 5px;
+  box-shadow: 3px 3px 4px rgba(50,50,50,0.9);
+  transition: 0.4s;
+}
+
+#test-mdl {
+  opacity: 0;
+  top: 50px;
+  text-align: center;
+  width: 750px;
+  margin-left: -375px;
+  padding: 15px;
+  box-shadow: 3px 3px 4px rgba(50,50,50,0.3);
+}
+
+#mdl-msg {
+  text-align: left;
+  color: black;
+  background: rgba(255,255,255,0.9);
+  margin: 15px auto 15px 15px;
+  padding: 15px;
+  border: 2px solid rgb(125,204,136);
+  border-radius: 5px;
+  box-shadow: 3px 3px 4px rgba(50,50,50,0.9);
+} 
+
+#mdl-msg li {
+  font-family: 'Nunito', sans-serif;
+  margin: 7px auto 7px 15px;
+  text-shadow: none;
+}
+
+#mdl-close {
+  cursor: pointer;
+  font-size: 1.2em; 
+  width: 100px;
+  height: 45px;
+}
+
+#test-btn {
+  cursor: pointer;
+  font-size: 1.2em;
+  bottom: 25px; 
+  width: 100px;
+  height: 45px;
+  margin-left: -50px;
+}
+
+#test-btn:hover, #mdl-close:hover {
+  color: rgb(125,204,136);
+  box-shadow: 7px 7px 6px rgba(50,50,50,0.7);
+}
+
+.check {
+  color: rgb(125,204,136);
+}

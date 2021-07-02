@@ -1,0 +1,50 @@
+/**
+ * Treehouse FSJS Techdegree - Project Warm Up
+ * Fun Dom Manipulation - CSS - animations
+ * Developed by: Guil Hernandez
+ */
+
+/*	Animations
+------------------------------------------ */
+
+.boat-container {
+	animation: rock-boat 3s ease-in-out infinite;
+}
+.boat-container::after {
+	animation: steam 4s 2s infinite;
+}
+body {
+	animation: bg-move 6s ease-out forwards;
+}
+.mike {
+	animation: mike-move 6s 3s ease-out forwards,
+	                   mike-float 3.2s infinite;
+}
+
+
+/*	Keyframes - WebKit only
+------------------------------------------ */
+
+@-webkit-keyframes rock-boat {
+	50%  { transform: rotate(-5deg) translateY(-10px); }
+}
+
+@-webkit-keyframes steam {
+	40%,
+	60%  { opacity: 1; }
+	100% { transform: translate(-15%, -35%) rotateZ(20deg); }
+}
+
+@-webkit-keyframes bg-move {
+	0%   { background-position:  100% -560px; }
+	100% { background-position: -350% -460px; }
+}
+
+@-webkit-keyframes mike-move {
+  0% {left: -15%;}
+	100% { left: 15%; }
+}
+
+@-webkit-keyframes mike-float {
+	50% { transform: rotateZ(5deg) translateY(-5px); }
+}

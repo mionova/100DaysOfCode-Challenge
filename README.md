@@ -15,11 +15,20 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 37 of 100
+  
+**Date**: July 1st, 2021
+
+**Today's JavaScript Progress**: Wrote a lightweight program that creates, appends and modifies DOM elements and their attributes. 
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-037)
+
+
 ### Day 36 of 100
   
 **Date**: June 30th, 2021
 
-**Today's JavaScript Progress**: Debugging JavaScript in the browser using buggy code that is provided. For some weird reason I struggled a bit.
+**Today's JavaScript Progress**: Debugging JavaScript in the browser using buggy code that was provided. For some weird reason, I struggled a bit.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-036)
 
