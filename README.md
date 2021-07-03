@@ -15,6 +15,14 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 38 of 100
+  
+**Date**: July 2nd, 2021
+
+**Today's JavaScript Progress**: Soved a couple of JS challenges:
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-038)
+
 ### Day 37 of 100
   
 **Date**: July 1st, 2021
