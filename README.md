@@ -15,6 +15,14 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 40 of 100
+  
+**Date**: July 4th, 2021
+
+**Today's JavaScript Progress**: Practiced creating simple functions and programming them with parameters and arguments (warm up for an upcoming project).
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-040)
+
 ### Day 39 of 100
   
 **Date**: July 3rd, 2021
