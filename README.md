@@ -15,11 +15,19 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 41 of 100
+  
+**Date**: July 5th, 2021
+
+**Today's JavaScript Progress**: Practiced List Section Selection (a warm up for an upcoming project) and I did a few quiz question.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-041)
+
 ### Day 40 of 100
   
 **Date**: July 4th, 2021
 
-**Today's JavaScript Progress**: Practiced creating simple functions and programming them with parameters and arguments (warm up for an upcoming project).
+**Today's JavaScript Progress**: Practiced creating simple functions and programming them with parameters and arguments (a warm-up for an upcoming project).
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-040)
 
@@ -43,7 +51,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: July 1st, 2021
 
-**Today's JavaScript Progress**: Wrote a lightweight program that creates, appends, and modifies DOM elements and their attributes. 
+**Today's JavaScript Progress**: Wrote a lightweight program that creates, appends, and modifies DOM elements and their attributes (a warm-up for an upcoming project).
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-037)
 
