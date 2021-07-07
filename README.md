@@ -19,7 +19,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: July 5th, 2021
 
-**Today's JavaScript Progress**: Practiced List Section Selection (a warm up for an upcoming project) and I did a few quiz question.
+**Today's JavaScript Progress**: Practiced List Section Selection (a warm up for an upcoming project) and did a few quiz questions.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-041)
 
