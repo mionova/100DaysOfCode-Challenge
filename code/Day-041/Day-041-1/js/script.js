@@ -1,6 +1,6 @@
 
 /**********************************************************
-100DaysOfCode-Challenge: Day 40
+100DaysOfCode-Challenge: Day 41
 Challenge 41-1 - List Section Selection - Project Warm Up
 *********************************************************/
 
@@ -13,10 +13,7 @@ const btn2 = document.querySelector('#btn-2');
 const btn3 = document.querySelector('#btn-3');
 
 
-/* Variable to store NodeList of DOM elements
-   This variable contains the list we will be choosing our selections from
-   but this technique works just as well with an array of objects as it does
-   with a list of DOM elements  */
+/* Variable to store NodeList of DOM elements */
 const listItems = document.querySelectorAll('.item');
 
 // Helpful log statement
@@ -28,9 +25,7 @@ const perPage = 2;
 
 
 // 1. Create a function called `sectionSelection` - it should accept two parameters: list, section
-
   // 1a. Loop over the list parameter and set the style.color of each list[i] item to 'whitesmoke'
-
   // 1c. Loop over the list parameter again
       // If the `i` is >= the `startIndex` variable && the `i` < the `endIndex` variable
         // Set the style.color of the the list[i] item to 'green', or your favorite color
@@ -52,7 +47,7 @@ function sectionSelection (list, section) {
 
 
   // 2. Invoke the `sectionSelection` function in the event listeners below
-   // Be sure to pass in arguments: the `listItems` variable and the targeted section - 1, 2, or 3
+   // Arguments: `listItems` variable and the targeted section - 1, 2, or 3
    sectionSelection(listItems, 2);
 
 
