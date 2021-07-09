@@ -1,5 +1,4 @@
 # 100DaysOfCode-Challenge
-&nbsp;  
 
 ## Commitment
 
