@@ -1,0 +1,230 @@
+/**
+ * Simple Search - CSS
+ * Developed by: Robert Manolis - Student Success Specialist
+ *               Milwaukie, OR - 2019
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+:root {
+
+  /* Colors - R, G, B */ 
+  --th-grn: 95, 207, 128;
+  --th-grn-hvr: 35, 214, 86;
+  --th-gry: 62, 71, 79;
+  --th-wht: 250, 250, 250;
+
+  --hdg-clr: rgb(var(--th-grn));
+  --text-clr: rgb(var(--th-gry));
+  --bg-wht: rgba(var(--th-wht), 0.9);
+  --bg-lt: rgba(var(--th-gry), 0.1);
+  --bg-dk: rgb(var(--th-gry));
+  --bg-grn: rgb(var(--th-grn));
+  --bdr-clr-lt: rgba(var(--th-wht), 0.9);
+  --bdr-clr-dk: rgba(var(--th-gry), 0.7);
+  --text-shd-lt: rgba(var(--th-wht), 0.9);
+  --box-shd-mid: rgba(var(--th-gry), 0.3);
+  
+  /* Elements */
+  --bdr-lt: 1px solid var(--bdr-clr-lt);
+  --bdr-dk: 1px solid var(--bdr-clr-dk);
+  --box-shd: 2px 2px 3px var(--box-shd-mid);
+  --box-shd-ins: 1px 1px 3px var(--box-shd-mid) inset, 3px 3px 5px var(--box-shd-mid);
+}
+
+/* :root {
+  --th-green: rgb(95, 207, 128);
+  --th-green-hover: rgb(35, 214, 86);
+  --th-bg-color-full-alpha: rgb(62, 71, 79);
+  --th-bg-color-three-quarter-alpha: rgba(62, 71, 79,);
+  --th-bg-color-med-alpha: rgba(62, 71, 79, 0.5);
+  --th-bg-color-quarter-alpha: rgba(62, 71, 79, 0.25);
+  --th-bg-color-light-alpha: rgba(62, 71, 79, 0.1);
+  --soft-white: rgba(250, 250, 250, 0.9);
+} */
+
+* {
+	box-sizing: border-box;
+}
+
+body,
+html {
+	width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+  background: var(--th-bg-color-light-alpha);
+}
+
+header {
+  width: 100%;
+  background: var(--bg-dk);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.7);
+  box-shadow: var(--box-shd);
+}
+
+header div {
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+}
+
+h1 {
+  display: block;
+  color: white;
+  text-shadow: 1px 1px 0 black;
+  margin: 0 auto;
+  margin-right: 60px;
+  padding: 20px 0;
+}
+
+.logo {
+  float: left;
+  width: 40px;
+  height: 40px;
+  margin-top: 15px;
+}
+
+.info {
+  float: right;
+  text-align: right;
+  width: 175px;
+  margin-top: -65px;
+}
+
+.info p {
+  color: var(--hdg-clr);
+  text-shadow: 1px 1px 0 black;
+  margin: 5px auto;
+}
+
+table {
+  text-align: center;
+  width: 100%;
+  max-width: 900px;
+  margin: 35px auto 0;
+  border: 1px solid #24943A;
+  background-color: white;
+  box-shadow: var(--box-shd-ins);
+  transition: all 0.4s;
+}
+
+td,
+th {
+  border: 1px solid #24943A;
+  padding: 3px 2px;
+}
+
+td {
+  font-size: 16px;
+  height: 42px;
+  background-color: #D4EED1;
+  transition: all 0.4s;
+}
+
+thead {
+  background: rgb(36, 148, 58);
+  background: -moz-linear-gradient(top, rgb(91, 175, 107) 0%, rgb(58, 158, 77) 66%, rgb(36, 148, 58) 100%);
+  background: -webkit-linear-gradient(top, rgb(91, 175, 107) 0%, rgb(58, 158, 77) 66%, rgb(36, 148, 58) 100%);
+  background: linear-gradient(to bottom, rgb(91, 175, 107) 0%, rgb(58, 158, 77) 66%, rgb(35, 147, 58) 100%);
+}
+
+th {
+  font-size: 19px;
+  font-weight: bold;
+  color: #F0F0F0;
+  text-align: left;
+}
+
+h2 {
+  display: inline-block;
+  font-size: 2.5rem;
+  width: 200px;
+  margin: 10px auto 10px 10px;
+}
+
+form {
+  vertical-align: middle;
+  float: right;
+  width: 320px;
+  height: 50px;
+  /* padding-top: 5px; */
+  margin: 10px auto;
+}
+
+.search-input {
+  outline: none;
+  width: 210px;
+  height: 50px;
+  padding: 5px;
+  border: 1px solid rgba(50, 50, 50, 0.9);
+  border-radius: 4px;
+  box-shadow: 3px 3px 5px rgba(50, 50, 50, 0.5);
+  transition: all 0.4s ease-out;
+}
+
+.search-input:focus,
+.search-input:hover {
+  border-color: rgba(23, 214, 81, 0.7);
+}
+
+.submit {
+  cursor: pointer;
+  outline: none;
+  color: white;
+  width: 100px;
+  height: 50px;
+  background: var(--bg-dk);
+  border: 1px solid rgba(50, 50, 50, 0.9);
+  border-radius: 4px;
+  box-shadow: 3px 3px 5px rgba(50, 50, 50, 0.5);
+  transition: all 0.4s ease-out;
+}
+
+.submit:hover {
+  box-shadow: 7px 7px 7px rgba(50, 50, 50, 0.5);
+}
+
+.match {
+  color: white;
+  background: rgb(59, 153, 59);
+  border: 2px solid rgba(27, 77, 14, 0.9);
+  box-shadow: 1px 1px 5px rgba(50, 50, 50, 0.7);
+}
+
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 15px;
+  background: rgb(36, 148, 58);
+  background: -moz-linear-gradient(top, rgb(91, 175, 107) 0%, rgb(58, 158, 77) 66%, rgb(36, 148, 58) 100%);
+  background: -webkit-linear-gradient(top, rgb(91, 175, 107) 0%, rgb(58, 158, 77) 66%, rgb(36, 148, 58) 100%);
+  background: linear-gradient(to bottom, rgb(91, 175, 107) 0%, rgb(58, 158, 77) 66%, rgb(35, 147, 58) 100%);
+  border-radius: 0 0 4px 4px;
+  border: var(--bdr-dk);
+  box-shadow: var(--box-shd-ins);
+}
+
+.help-container {
+  text-align: center;
+  color: white;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.help-container p {
+  margin-bottom: 0;
+}
+
+.help-container a {
+  text-decoration: none;
+  color: var(--bg-dk);
+}
+
+.help-container a img {
+  width: 20px;
+  margin-bottom: -2px;
+}

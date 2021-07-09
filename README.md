@@ -15,6 +15,14 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ## Daily Log
 
+### Day 43 of 100
+  
+**Date**: July 7th, 2021
+
+**Today's JavaScript Progress**: Practiced simple search (a warm up for an upcoming project).
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-043)
+
 ### Day 42 of 100
   
 **Date**: July 6th, 2021
