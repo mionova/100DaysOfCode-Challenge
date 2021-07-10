@@ -486,3 +486,12 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-043)   
 &nbsp;  
+
+### Day 44 of 100
+  
+**Date**: July 8th, 2021
+
+**Today's JavaScript Progress**: Started working on a project that involves data pagination and filtering. Stay tuned!!!
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-044)   
+&nbsp;  
