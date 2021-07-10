@@ -1,7 +1,7 @@
-/****************************************
+/**********************************************
 100DaysOfCode-Challenge: Day 43
-Project 2 - Data Pagination and Filtering
-****************************************/
+Project 2 - Data Pagination and Filtering - WIP
+**********************************************/
 
 /*
 Display a page
@@ -19,10 +19,27 @@ Display a “page”
 */
 
 function showPage (list, page) {
-
+  let ul = document.getElementsByTagName('ul')[0];
+  //adding an li element
+  let li = document.createElement('li');
+  li.innerHTML =         
+  `<li class="student-item cf">
+  <div class="student-details">
+    <img class="avatar" src="https://randomuser.me/api/portraits/women/25.jpg" alt="Profile Picture">
+    <h3>Ethel Dean</h3>
+    <span class="email">ethel.dean@example.com</span>
+  </div>
+  <div class="joined-details">
+    <span class="date">Joined 12-15-2005</span>
+  </div>
+</li>
+`
+//append node
+  ul.appendChild(li);
 }
 
-
+//for testing
+showPage();
 
 /*
 Create the `addPagination` function
