@@ -20,15 +20,15 @@ console.log(buttons);
 
 
 // 1. Create a function called `setAction` and give it a parameter called `event`.  Inside the function's code block:
-  // 1a. Loop over the `buttons` variable above
-    // 1aa. Inside the loop, use `.classList.remove()` to remove the 'active' class name from all buttons
-  // 1b. After the loop, create a variable and set it equal to `event.target`
-  // 1d. Then use `.classList.add()` to add the 'active' class name to the `event.target` variable you just created
-  
+// 1a. Loop over the `buttons` variable above
+// 1aa. Inside the loop, use `.classList.remove()` to remove the 'active' class name from all buttons
+// 1b. After the loop, create a variable and set it equal to `event.target`
+// 1d. Then use `.classList.add()` to add the 'active' class name to the `event.target` variable you just created
+
 // 2. Call the `setAction()` function in the callbacks of the event listeners 
 
-function setAction (event) {
-  for (let i=0; i < buttons.length; i++ ) {
+function setAction(event) {
+  for (let i = 0; i < buttons.length; i++) {
     buttons[i].classList.remove("active");
   }
 
@@ -56,7 +56,7 @@ btn2.addEventListener('click', (event) => {
 
   // Invoke your `setAction()` function here - Arguments: event
   setAction(event);
-  
+
   // Helpful log statement to test function
   console.log('Second button is functional!');
 });

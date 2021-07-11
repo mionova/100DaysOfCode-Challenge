@@ -1,4 +1,3 @@
-
 /**********************************************************
 100DaysOfCode-Challenge: Day 41
 Challenge 41-1 - List Section Selection - Project Warm Up
@@ -25,20 +24,20 @@ const perPage = 2;
 
 
 // 1. Create a function called `sectionSelection` - it should accept two parameters: list, section
-  // 1a. Loop over the list parameter and set the style.color of each list[i] item to 'whitesmoke'
-  // 1c. Loop over the list parameter again
-      // If the `i` is >= the `startIndex` variable && the `i` < the `endIndex` variable
-        // Set the style.color of the the list[i] item to 'green', or your favorite color
+// 1a. Loop over the list parameter and set the style.color of each list[i] item to 'whitesmoke'
+// 1c. Loop over the list parameter again
+// If the `i` is >= the `startIndex` variable && the `i` < the `endIndex` variable
+// Set the style.color of the the list[i] item to 'green', or your favorite color
 
-function sectionSelection (list, section) {
+function sectionSelection(list, section) {
   const startIndex = (section * perPage) - perPage;
   const endIndex = (section * perPage);
-  
-  for (let i=0; i<list.length; i++){
+
+  for (let i = 0; i < list.length; i++) {
     list[i].style.color = "whitesmoke";
   }
-  
-  for (let i=0; i<list.length; i++){
+
+  for (let i = 0; i < list.length; i++) {
     if ((i >= startIndex) && (i < endIndex)) {
       list[i].style.color = "green";
     }
@@ -46,9 +45,9 @@ function sectionSelection (list, section) {
 }
 
 
-  // 2. Invoke the `sectionSelection` function in the event listeners below
-   // Arguments: `listItems` variable and the targeted section - 1, 2, or 3
-   sectionSelection(listItems, 2);
+// 2. Invoke the `sectionSelection` function in the event listeners below
+// Arguments: `listItems` variable and the targeted section - 1, 2, or 3
+sectionSelection(listItems, 2);
 
 
 /**

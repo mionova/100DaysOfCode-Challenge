@@ -18,12 +18,12 @@ Display a “page”
 
 */
 
-function showPage (list, page) {
+function showPage(list, page) {
   let ul = document.getElementsByTagName('ul')[0];
   //adding an li element
   let li = document.createElement('li');
-  li.innerHTML =         
-  `<li class="student-item cf">
+  li.innerHTML =
+    `<li class="student-item cf">
   <div class="student-details">
     <img class="avatar" src="https://randomuser.me/api/portraits/women/25.jpg" alt="Profile Picture">
     <h3>Ethel Dean</h3>
@@ -34,7 +34,7 @@ function showPage (list, page) {
   </div>
 </li>
 `
-//append node
+  //append node
   ul.appendChild(li);
 }
 

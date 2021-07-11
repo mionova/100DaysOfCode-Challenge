@@ -4,7 +4,7 @@
  * Developed by: Robert Manolis - Milwaukie, OR - 2019
  */
 
-(function() {
+(function () {
   'use strict';
 
   /* Variables to target DOM elements */
@@ -37,21 +37,31 @@
   /* Create test sepcific DOM els */
   const testBtn = createEl('BUTTON');
   testBtn.textContent = 'Test';
-  appendAndAddAttras(body, testBtn, [['id', 'test-btn']]);
+  appendAndAddAttras(body, testBtn, [
+    ['id', 'test-btn']
+  ]);
 
   const testMdl = createEl('DIV');
-  appendAndAddAttras(body, testMdl, [['id', 'test-mdl']]);
+  appendAndAddAttras(body, testMdl, [
+    ['id', 'test-mdl']
+  ]);
 
   const mdlH2 = createEl('H2');
   mdlH2.textContent = 'Results';
-  appendAndAddAttras(testMdl, mdlH2, [['id', 'mdl-h1']]);
+  appendAndAddAttras(testMdl, mdlH2, [
+    ['id', 'mdl-h1']
+  ]);
 
   const mdlMsg = createEl('OL');
-  appendAndAddAttras(testMdl, mdlMsg, [['id', 'mdl-msg']]);
+  appendAndAddAttras(testMdl, mdlMsg, [
+    ['id', 'mdl-msg']
+  ]);
 
   const mdlClose = createEl('BUTTON');
   mdlClose.textContent = 'Close';
-  appendAndAddAttras(testMdl, mdlClose, [['id', 'mdl-close']]);
+  appendAndAddAttras(testMdl, mdlClose, [
+    ['id', 'mdl-close']
+  ]);
   /* End Section */
 
 
@@ -60,7 +70,7 @@
     let message;
     const mdlMsgItm = createEl('LI');
     let is_valid = false;
-    
+
     if (el) {
       message = `<span class='check'>&#10004;</span> The '${el.tagName}'' with id of '${id}' is present.`;
       mdlMsgItm.style.color = 'black';
@@ -89,7 +99,7 @@
       message = `The '${el.id}' ${el.tagName} element's '${attra}' property is either missing or has the wrong value.`;
       mdlMsgItm.style.color = 'red';
     }
-      
+
     mdlMsgItm.innerHTML = message;
     appendAndAddAttras(mdlMsg, mdlMsgItm);
   }
@@ -108,7 +118,7 @@
       message = `The '${el.tagName}' element's text is either missing or has the wrong value.`;
       mdlMsgItm.style.color = 'red';
     }
-      
+
     mdlMsgItm.innerHTML = message;
     appendAndAddAttras(mdlMsg, mdlMsgItm);
   }
@@ -120,16 +130,16 @@
     testBtn.setAttribute('disabled', true);
 
     testMdl.style.opacity = 1;
-                            
+
     if (domCheck(h1Check, 'main-heading')) textCheck(h1Check, 'Fun DOM Manipulation');
 
     if (domCheck(boatContCheck, 'boat-container')) attraCheck(boatContCheck, 'class', 'boat-container');
-    
+
     if (domCheck(boatImgCheck, 'boat-img')) {
       attraCheck(boatImgCheck, 'src', 'img/boat.png');
       attraCheck(boatImgCheck, 'alt', 'Tugboat');
     }
-    
+
     if (domCheck(mikeCheck, 'mike')) {
       attraCheck(mikeCheck, 'src', 'img/mike.png');
       attraCheck(mikeCheck, 'alt', 'Mike The Frog');

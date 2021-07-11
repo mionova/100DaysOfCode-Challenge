@@ -35,9 +35,9 @@ Next, remove the removeMe element from the parent element.
 
 var list = document.getElementsByTagName('ul')[0];
 
-list.addEventListener('click', function(e) {
+list.addEventListener('click', function (e) {
   if (e.target.tagName == 'BUTTON') {
-    e.target.previousChild.className='highlight';
+    e.target.previousChild.className = 'highlight';
   }
 });
 
@@ -72,9 +72,9 @@ Complete the code to add a class of highlight to a <p> element that's an immedia
 
 var list = document.getElementsByTagName('ul')[0];
 
-list.addEventListener('click', function(e) {
+list.addEventListener('click', function (e) {
   if (e.target.tagName == 'BUTTON') {
-    e.target.previousElementSibling.className='highlight';
+    e.target.previousElementSibling.className = 'highlight';
   }
 });
 
@@ -168,6 +168,6 @@ Create a for loop to make longString a string with 6 A
 
 var longString = "";
 
-for (var i=0; i<3; i++) {
+for (var i = 0; i < 3; i++) {
   longString += "AA";
 }
