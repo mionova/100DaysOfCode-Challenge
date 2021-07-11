@@ -10,7 +10,7 @@ function createLI(text) {
   const checkbox = document.createElement('input');
   checkbox.type = 'checkbox';
   label.appendChild(checkbox);
-  li.appendChild(label);  
+  li.appendChild(label);
   const button = document.createElement('button');
   button.textContent = 'remove';
   li.appendChild(button);
@@ -24,33 +24,23 @@ form.addEventListener('submit', (e) => {
   const li = createLI(text);
   ul.appendChild(li);
 });
-  
+
 ul.addEventListener('change', (e) => {
   const checkbox = event.target;
   const checked = checkbox.checked;
   const listItem = checkbox.parentNode.parentNode;
-  
+
   if (checked) {
     listItem.className = 'responded';
   } else {
     listItem.className = '';
   }
 });
-  
+
 ul.addEventListener('click', (e) => {
   if (e.target.tagName === 'BUTTON') {
     const li = e.target.parentNode;
     const ul = li.parentNode;
     ul.removeChild(li);
   }
-});  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+});

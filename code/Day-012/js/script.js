@@ -17,8 +17,8 @@ let twelveSidedDie = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 
 //create a random number and return the random number variable
 function diceroll(array) {
- var randomNumber = Math.floor(Math.random()* array.length+1);
- return randomNumber;
+  var randomNumber = Math.floor(Math.random() * array.length + 1);
+  return randomNumber;
 };
 
 // helpful log statement to test function 
@@ -32,11 +32,11 @@ playBtn.addEventListener('click', () => {
   let score1 = diceroll(twelveSidedDie);
   let score2 = diceroll(twelveSidedDie);
 
- // helpful log statement to test variables in the console
+  // helpful log statement to test variables in the console
   console.log(score1);
   console.log(score2);
 
-   // setting the innerHTML of the `scoreOneElement` and `scoreTwoElement` variables above equal to the dice roll variables
+  // setting the innerHTML of the `scoreOneElement` and `scoreTwoElement` variables above equal to the dice roll variables
   document.getElementById("score-1").innerHTML = score1;
   document.getElementById("score-2").innerHTML = score2;
 

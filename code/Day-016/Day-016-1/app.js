@@ -16,9 +16,9 @@ toggleList.addEventListener('click', () => {
     toggleList.textContent = 'Hide list';
     listDiv.style.display = 'block';
   } else {
-    toggleList.textContent = 'Show list';                        
+    toggleList.textContent = 'Show list';
     listDiv.style.display = 'none';
-  }                         
+  }
 });
 
 descriptionbutton.addEventListener('click', () => {
@@ -30,4 +30,3 @@ addItemButton.addEventListener('click', () => {
   let li = document.createElement('li');
   li.textContent = addItemInput.value;
 });
-

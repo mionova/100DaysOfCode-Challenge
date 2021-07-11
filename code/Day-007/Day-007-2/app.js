@@ -1,4 +1,3 @@
-
 //TO DO: Fix the problems with the existing code. 
 //This runs in Node.js
 
@@ -10,26 +9,24 @@
 3)	At this point, attempt to run your code by typing node let_const.js in your workspace console and hitting enter. You should receive an error message when you do this. Use the clues in this error message to fix the program so it runs.
 */
 
-let teachers = [
-	{
-		name: 'Ashley',
-		topicArea: 'Javascript'
-	}
-];
+let teachers = [{
+	name: 'Ashley',
+	topicArea: 'Javascript'
+}];
 
 const courses = ['Introducing JavaScript',
-				'JavaScript Basics',
-				'JavaScript Loops, Arrays and Objects',
-				'Getting Started with ES2015',
-				'JavaScript and the DOM',
-				'DOM Scripting By Example'];
-			
+	'JavaScript Basics',
+	'JavaScript Loops, Arrays and Objects',
+	'Getting Started with ES2015',
+	'JavaScript and the DOM',
+	'DOM Scripting By Example'
+];
+
 
 var i = courses.length;
 
 
-let newTeachers = [
-	{
+let newTeachers = [{
 		name: 'James',
 		topicArea: 'Javascript'
 	},
@@ -42,30 +39,19 @@ let newTeachers = [
 
 function addNewTeachers(newTeachers) {
 	// TODO: write a function that adds new teachers to the teachers array 
-teachers = teachers.concat(newTeachers);
+	teachers = teachers.concat(newTeachers);
 }
 
 function printTreehouseSummary() {
 	// TODO: fix this function so that it prints the correct number of courses and   teachers 
-	
-  for (var i = 0; i < teachers.length; i++) {
-	 console.log(`${teachers[i].name} teaches ${teachers[i].topicArea}`);
+
+	for (var i = 0; i < teachers.length; i++) {
+		console.log(`${teachers[i].name} teaches ${teachers[i].topicArea}`);
 	}
-	
-  console.log(`Treehouse has ${courses.length} JavaScript courses, and ${teachers.length} Javascript teachers`);
+
+	console.log(`Treehouse has ${courses.length} JavaScript courses, and ${teachers.length} Javascript teachers`);
 }
 
 
 addNewTeachers(newTeachers);
 printTreehouseSummary();
-
-
-
-
-
-
-
-
-
-
-

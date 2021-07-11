@@ -23,12 +23,12 @@ function attachListItemButtons(li) {
   up.className = 'up';
   up.textContent = 'Up';
   li.appendChild(up);
-  
+
   let down = document.createElement('button');
   down.className = 'down';
   down.textContent = 'Down';
-  li.appendChild(down);  
-  
+  li.appendChild(down);
+
   let remove = document.createElement('button');
   remove.className = 'remove';
   remove.textContent = 'Remove';
@@ -53,7 +53,7 @@ listUl.addEventListener('click', (event) => {
       if (prevLi) {
         ul.insertBefore(li, prevLi);
       }
-    }  
+    }
     if (event.target.className == 'down') {
       let li = event.target.parentNode;
       let nextLi = li.nextElementSibling;
@@ -61,7 +61,7 @@ listUl.addEventListener('click', (event) => {
       if (nextLi) {
         ul.insertBefore(nextLi, li);
       }
-    } 
+    }
   }
 });
 
@@ -70,9 +70,9 @@ toggleList.addEventListener('click', () => {
     toggleList.textContent = 'Hide list';
     listDiv.style.display = 'block';
   } else {
-    toggleList.textContent = 'Show list';                        
+    toggleList.textContent = 'Show list';
     listDiv.style.display = 'none';
-  }                         
+  }
 });
 
 descriptionButton.addEventListener('click', () => {
@@ -88,8 +88,3 @@ addItemButton.addEventListener('click', () => {
   ul.appendChild(li);
   addItemInput.value = '';
 });
-  
-  
-  
-
-  

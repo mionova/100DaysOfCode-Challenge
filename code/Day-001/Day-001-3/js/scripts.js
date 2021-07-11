@@ -2,19 +2,19 @@
 
 function max(numberOne, numberTwo) {
 
-if (numberOne > numberTwo) {
+    if (numberOne > numberTwo) {
 
-return `${numberOne} is larger`;
+        return `${numberOne} is larger`;
 
-} else if (numberTwo > numberOne) {
+    } else if (numberTwo > numberOne) {
 
-return `${numberTwo} is larger`;
+        return `${numberTwo} is larger`;
 
-} else {
+    } else {
 
-return "Both numbers are equal"
+        return "Both numbers are equal"
 
-}
+    }
 
 }
 

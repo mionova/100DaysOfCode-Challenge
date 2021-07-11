@@ -1,11 +1,11 @@
 //Build a Quiz by creating a multidimensional array to hold quiz questions and answers
 
 // 1. Create a multidimensional array to hold quiz questions and answers
-const quiz =[
+const quiz = [
 
-	['What is always coming, but never arrives?', 'tomorrow'],
-	['What is it that lives if it is fed, and dies if you give it a drink?', 'fire'],
-	['What goes up and down, but always remains in the same place?', 'stairs']
+  ['What is always coming, but never arrives?', 'tomorrow'],
+  ['What is it that lives if it is fed, and dies if you give it a drink?', 'fire'],
+  ['What goes up and down, but always remains in the same place?', 'stairs']
 
 ]
 
@@ -24,13 +24,13 @@ const incorrectAnswerArray = [];
         answered questions increments by 1
 */
 
-for (let i=0; i<quiz.length; i++) {
+for (let i = 0; i < quiz.length; i++) {
   let test = prompt(quiz[i][0]);
-  if (test.toLowerCase() === (quiz[i][1])){
-	correctAnswer=correctAnswer+1;
-  correctAnswerArray.push(quiz[i][0]);
-	} else 
-  incorrectAnswerArray.push(quiz[i][0]);
+  if (test.toLowerCase() === (quiz[i][1])) {
+    correctAnswer = correctAnswer + 1;
+    correctAnswerArray.push(quiz[i][0]);
+  } else
+    incorrectAnswerArray.push(quiz[i][0]);
 }
 
 function createListItems(arr) {
@@ -44,7 +44,7 @@ function createListItems(arr) {
 
 // 4. Display the number of correct answers to the user
 
-document.querySelector('main').innerHTML=`<h1>You answered ${correctAnswer} questions correctly</h1>
+document.querySelector('main').innerHTML = `<h1>You answered ${correctAnswer} questions correctly</h1>
 <h2>You got these questions right:</h2>
 <ol>${createListItems(correctAnswerArray)}</ol>
 

@@ -27,9 +27,9 @@ toggleList.addEventListener('click', () => {
     toggleList.textContent = 'Hide list';
     listDiv.style.display = 'block';
   } else {
-    toggleList.textContent = 'Show list';                        
+    toggleList.textContent = 'Show list';
     listDiv.style.display = 'none';
-  }                         
+  }
 });
 
 descriptionButton.addEventListener('click', () => {
@@ -44,13 +44,9 @@ addItemButton.addEventListener('click', () => {
   ul.appendChild(li);
   addItemInput.value = '';
 });
-  
+
 removeItemButton.addEventListener('click', () => {
   let ul = document.getElementsByTagName('ul')[0];
   let li = document.querySelector('li:last-child');
   ul.removeChild(li);
 });
-  
-  
-  
-  

@@ -5,10 +5,10 @@
 function shuffle(arr) {
   var j, x, i;
   for (i = arr.length - 1; i > 0; i--) {
-      j = Math.floor(Math.random() * (i + 1));
-      x = arr[i];
-      arr[i] = arr[j];
-      arr[j] = x;
+    j = Math.floor(Math.random() * (i + 1));
+    x = arr[i];
+    arr[i] = arr[j];
+    arr[j] = x;
   }
   return arr;
 }
@@ -20,16 +20,16 @@ function shuffle(arr) {
 // 5. Finally, pass the new deck to the shuffle() function, and return the results.
 
 function createDeck() {
-  var suites = ['♠︎','♣︎','♥︎','♦︎'];
-  var ranks = ['Ace','King','Queen','Jack','10','9','8','7','6','5','4', '3','2'];
+  var suites = ['♠︎', '♣︎', '♥︎', '♦︎'];
+  var ranks = ['Ace', 'King', 'Queen', 'Jack', '10', '9', '8', '7', '6', '5', '4', '3', '2'];
   var deck = [];
   // add your code below here:
-  for (let i=0; i<suites.length; i++) {
-   for (let j=0; j<ranks.length; j++) {
-     let card = [];
-     card.push(ranks[j], suites[i]);
-     deck.push(card);
-   }
+  for (let i = 0; i < suites.length; i++) {
+    for (let j = 0; j < ranks.length; j++) {
+      let card = [];
+      card.push(ranks[j], suites[i]);
+      deck.push(card);
+    }
   }
   return shuffle(deck);
 }
@@ -40,6 +40,6 @@ let myDeck = createDeck();
 
 // 7. Use a for loop to loop through the deck and list each card in the order the appear in the newly shuffled array. 
 
-for (let i = 0; i<myDeck.length; i++) {
-  console.log(myDeck[i][0]+ ' of ' + myDeck[i][1]);  
+for (let i = 0; i < myDeck.length; i++) {
+  console.log(myDeck[i][0] + ' of ' + myDeck[i][1]);
 }

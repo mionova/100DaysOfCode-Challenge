@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
   filterCheckBox.addEventListener('change', (e) => {
     const isChecked = e.target.checked;
     const lis = ul.children;
-    if(isChecked) {
+    if (isChecked) {
       for (let i = 0; i < lis.length; i += 1) {
         let li = lis[i];
         if (li.className === 'responded') {
@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
           input.textContent = span.textContent;
           li.insertBefore(input, span);
           li.removeChild(span);
-          button.textContent = 'save';   
+          button.textContent = 'save';
         },
         save: () => {
           const input = li.firstElementChild;
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
           span.textContent = input.value;
           li.insertBefore(span, input);
           li.removeChild(input);
-          button.textContent = 'edit';        
+          button.textContent = 'edit';
         }
       };
 

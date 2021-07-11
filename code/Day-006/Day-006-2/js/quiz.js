@@ -1,9 +1,17 @@
 //Convert the array of arrays from yesterday's challenge into an array of objects (so I can use property names to identify the data)
 // 1. Create an array to hold quiz questions and answers
-const questions = [
-  { question: 'What is always coming, but never arrives?', answer: 'tomorrow' },
-  { question: 'What is it that lives if it is fed, and dies if you give it a drink?', answer: 'fire' },
-  { question: 'What goes up and down, but always remains in the same place?', answer: 'stairs' }
+const questions = [{
+    question: 'What is always coming, but never arrives?',
+    answer: 'tomorrow'
+  },
+  {
+    question: 'What is it that lives if it is fed, and dies if you give it a drink?',
+    answer: 'fire'
+  },
+  {
+    question: 'What goes up and down, but always remains in the same place?',
+    answer: 'stairs'
+  }
 ];
 
 // 2. Store the number of questions answered correctly
@@ -18,12 +26,12 @@ let correctAnswers = 0;
       - If the response matches the answer, the number of correctly
         answered questions increments by 1
 */
-for ( let i = 0; i < questions.length; i++ ) {
+for (let i = 0; i < questions.length; i++) {
   let question = questions[i].question;
   let answer = questions[i].question;
   let response = prompt(question);
-  
-  if ( response === answer ) {
+
+  if (response === answer) {
     correctAnswers++;
     correct.push(question);
   } else {

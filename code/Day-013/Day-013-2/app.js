@@ -14,5 +14,5 @@ const myTextInput = document.getElementById('myTextInput');
 
 //running a function on button click 
 myButton.addEventListener('click', () => {
-    myHeading.style.color=myTextInput.value;
+    myHeading.style.color = myTextInput.value;
 });

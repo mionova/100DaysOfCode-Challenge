@@ -39,8 +39,6 @@ const value3 = btn3.tagName;
 const value4 = [value1, value2, value3]
 
 
-
-
 // 1. Create a function named `func1` — it should accept a single parameter called `number
 // 1a. Set the `style.color` property of `element1` to green, or your favorite color
 // 1b. Set the `innerHTML` property of `element1` equal to the `number` parameter
@@ -90,7 +88,6 @@ function func4(array) {
 // `func1` in the first event listener, `func2` in the second, etc.
 // Pass the `value` variables above as the arguments for each function, 
 // `value1` to `func1`, `value2` to `func2`, etc.
-
 
 
 /**

@@ -16,43 +16,45 @@ I.e. If the function is given input 10, your function should return 10
 
 var sumOddFibonacci = function (max) {
   //array to store the fibonacci sequence with the first two value given [1, 1]
-    array = [1,1];
-    var nextFib = 1;
-    var fibNum = 0;
-  
+  array = [1, 1];
+  var nextFib = 1;
+  var fibNum = 0;
+
   // function that finds the next fibonacci number given previous two numbers
-   fibNum = array[nextFib-1] + array[nextFib];
-  
+  fibNum = array[nextFib - 1] + array[nextFib];
+
   // while loop to keep adding new fibonacci numbers to the array, the stop condition is nextFib <= max
-    while (fibNum <= max) {
-      fibNum = array[nextFib-1] + array[nextFib];
-      if (fibNum <= max) {
-        array.push(fibNum);
-      }
-      nextFib++;
+  while (fibNum <= max) {
+    fibNum = array[nextFib - 1] + array[nextFib];
+    if (fibNum <= max) {
+      array.push(fibNum);
     }
-  
-    console.log(array)
-    
-    // once all the fibonacci numbers are created, a filter() method filters out all the even numbers
-    var odds = array.filter(function(x) {
-     return x % 2 !== 0;
-   });
-   
-    // reduce() method to sum up all the numbers
-    var result = odds.reduce ( function ( acc, val ) { return acc + val; }, 0);
-    return result;
-    
-  };
-  
-  console.log(sumOddFibonacci(10));
-  // -> 10
-  console.log(sumOddFibonacci(1));
-  // // -> 2
-  console.log(sumOddFibonacci(1000));
-  // // -> 1785
-  console.log(sumOddFibonacci(4000000));
-  // // -> 4613732
+    nextFib++;
+  }
+
+  console.log(array)
+
+  // once all the fibonacci numbers are created, a filter() method filters out all the even numbers
+  var odds = array.filter(function (x) {
+    return x % 2 !== 0;
+  });
+
+  // reduce() method to sum up all the numbers
+  var result = odds.reduce(function (acc, val) {
+    return acc + val;
+  }, 0);
+  return result;
+
+};
+
+console.log(sumOddFibonacci(10));
+// -> 10
+console.log(sumOddFibonacci(1));
+// // -> 2
+console.log(sumOddFibonacci(1000));
+// // -> 1785
+console.log(sumOddFibonacci(4000000));
+// // -> 4613732
 
 
 /*
@@ -69,33 +71,33 @@ function smallestCommonM(arr) {
   var min = arr[0];
   var max = arr[1];
   var array = [];
-  
-     function range(min, max) {
-         for (var i = min; i <= max; i++) {
-             array.push(i);
-         }
-         return array;
-     }
- 
-     function gcd(a, b) {
-         return !b ? a : gcd(b, a % b);
-     }
- 
-     function lcm(a, b) {
-         return (a * b) / gcd(a, b);   
-     }
- 
-     var multiple = min;
-     range(min, max).forEach(function(n) {
-         multiple = lcm(multiple, n);
-     });
- 
-     return multiple;
- }
- 
- console.log(smallestCommonM([1, 5]));
- // -> 60
- console.log(smallestCommonM([5, 1]));
- // -> 60
- console.log(smallestCommonM([1, 13]));
- // -> 360360
+
+  function range(min, max) {
+    for (var i = min; i <= max; i++) {
+      array.push(i);
+    }
+    return array;
+  }
+
+  function gcd(a, b) {
+    return !b ? a : gcd(b, a % b);
+  }
+
+  function lcm(a, b) {
+    return (a * b) / gcd(a, b);
+  }
+
+  var multiple = min;
+  range(min, max).forEach(function (n) {
+    multiple = lcm(multiple, n);
+  });
+
+  return multiple;
+}
+
+console.log(smallestCommonM([1, 5]));
+// -> 60
+console.log(smallestCommonM([5, 1]));
+// -> 60
+console.log(smallestCommonM([1, 13]));
+// -> 360360

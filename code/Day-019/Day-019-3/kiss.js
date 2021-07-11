@@ -35,8 +35,12 @@ function randomMovie() {
 }
 
 function buySnacks(money) {
-  const purchasedSnacks = {'popcorn': 0, 'soda': 0, 'candy': 0};
-  
+  const purchasedSnacks = {
+    'popcorn': 0,
+    'soda': 0,
+    'candy': 0
+  };
+
   if (money > 0) {
     while (money > 0) {
       if (money >= 3) {
@@ -70,16 +74,39 @@ function goToMovies(money) {
 
 console.log(goToMovies(10));
 
-const pets = [
-  { name: "Jethro", animal: "dog", breed: "Australian Shepherd" },
-  { name: "Birdie", animal: "dog", breed: "Pointer mix"},
-  { name: "Harley", animal: "dog", breed: "Unknown" },
-  { name: "Booger", animal: "cat", breed: "Unknown" },
-  { name: "Argo", animal: "cat", breed: "Unknown" },
-  { name: "Ace", animal: "cat", breed: "Unknown" },
+const pets = [{
+    name: "Jethro",
+    animal: "dog",
+    breed: "Australian Shepherd"
+  },
+  {
+    name: "Birdie",
+    animal: "dog",
+    breed: "Pointer mix"
+  },
+  {
+    name: "Harley",
+    animal: "dog",
+    breed: "Unknown"
+  },
+  {
+    name: "Booger",
+    animal: "cat",
+    breed: "Unknown"
+  },
+  {
+    name: "Argo",
+    animal: "cat",
+    breed: "Unknown"
+  },
+  {
+    name: "Ace",
+    animal: "cat",
+    breed: "Unknown"
+  },
 ];
 
-for (const element of pets){
+for (const element of pets) {
   console.log(`Name: ${element['name']}`);
   console.log(`Animal: ${element['animal']}`);
   console.log(`Breed: ${element['breed']}`);

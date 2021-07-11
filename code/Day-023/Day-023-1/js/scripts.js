@@ -25,7 +25,7 @@ ul.innerHTML += '<li><input> Chat</li>'
 
 // 6: Change all <input> elements from text fields to checkboxes
 let input = document.querySelectorAll('input');
-for (let i=0; i<input.length; i++) {
+for (let i = 0; i < input.length; i++) {
     input[i].type = 'checkbox';
 }
 
@@ -37,5 +37,5 @@ extra.innerHTML += `<button id = "toggleList">Delete</button>`
 // 8: Remove the '.extra' <div> element from the DOM when a user clicks the 'Delete' button
 const toggleList = document.querySelector('#toggleList');
 toggleList.addEventListener('click', () => {
-   extra.style.display='none'; 
+    extra.style.display = 'none';
 })

@@ -52,7 +52,7 @@ Note: The persistence of a number is the number of times one must apply a given 
 The additive persistence of 2718 is 2: first we find that 2 + 7 + 1 + 8 = 18, and then that 1 + 8 = 9. Since 9 is just a single number, we stop here. We operated on the number 2718 two (2) times till we stopped. The additive persistence is therefore 2.
 
 */
-var additivePersistence = function(num) {
+var additivePersistence = function (num) {
 
   // Break up the numbers into an array
   var numbers = num.toString().split('');
@@ -62,16 +62,16 @@ var additivePersistence = function(num) {
 
   // If num is a single number
   if (numbers.length <= 1) {
-  return count;
+    return count;
   };
 
   // If num isn’t a single number
   do {
     var sum = 0;
-    for (var i = 0; i<numbers.length; i++) {
-    sum = sum + Number(numbers[i]);
+    for (var i = 0; i < numbers.length; i++) {
+      sum = sum + Number(numbers[i]);
     }
-  
+
     // Set numbers equal to the new array after splitting the sum
     numbers = sum.toString().split('');
     count = count + 1;
@@ -79,7 +79,7 @@ var additivePersistence = function(num) {
 
   return count;
 };
-   
+
 
 console.log(additivePersistence(2718));
 // -> 2

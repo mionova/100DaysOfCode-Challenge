@@ -41,7 +41,7 @@ console.log(str4);
 Regular Expressions: Using the Global Flag to Find All Words
 Replace all "sea" with "ocean".
 */
-var regex = /sea/g ;
+var regex = /sea/g;
 
 var str = "She sells seashells on the seashore.";
 
@@ -58,17 +58,15 @@ Replace all targets in the sentence body with the replacement word.
 */
 var replacer = function (sentence, target, replacement) {
 
-  var res = sentence.replace(target, function (){
-    if (target == target.toLowerCase()){
-     // The character is lowercase
+  var res = sentence.replace(target, function () {
+    if (target == target.toLowerCase()) {
+      // The character is lowercase
       return replacement;
-     }
-    else
-    {
-    // The character is uppercase
+    } else {
+      // The character is uppercase
       return replacement.charAt(0).toUpperCase() + replacement.slice(1);;
     }
-    });
+  });
 
   return res;
 }
@@ -91,13 +89,13 @@ In this exercise, you are given a lower case string of letters that follow the o
 var missingLetter = function (string) {
   var array = string.split("");
   var code;
-  for (var i=1; i<array.length; i++) {
-    if (string.charCodeAt(i) !== string.charCodeAt(i-1) +1) {
-      code = string.charCodeAt(i) -1;
+  for (var i = 1; i < array.length; i++) {
+    if (string.charCodeAt(i) !== string.charCodeAt(i - 1) + 1) {
+      code = string.charCodeAt(i) - 1;
       return String.fromCharCode(code);
     }
   }
-return undefined;  
+  return undefined;
 };
 
 console.log(missingLetter("abce"));

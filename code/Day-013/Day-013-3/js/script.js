@@ -24,11 +24,11 @@ print.addEventListener('click', () => {
   console.log(myChar);
 
   //Defining an empty string variable
-  let myCharIcon ='';
+  let myCharIcon = '';
 
   //String Concatenatinattion
   myCharIcon = '<p>My ' + myChar.icon + 'character has:</p>'
-  
+
   // Helpful log statement to inspect the string value
   console.log(myCharIcon);
 

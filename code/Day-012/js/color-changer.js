@@ -33,7 +33,7 @@ function updateColors(one, two) {
     setWinner(one);
     setLoser(two);
   }
-  
+
   if (Number(one.innerHTML) < Number(two.innerHTML)) {
     setWinner(two);
     setLoser(one);

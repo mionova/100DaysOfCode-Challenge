@@ -23,35 +23,35 @@ const main = document.querySelector('main');
 let answerOne = prompt("How old is Salma Hayek?");
 
 if (+answerOne === 52) {
-	correct++;
+  correct++;
 }
 
 //Quesstion 2
 let answerTwo = prompt("How old is Jennifer Lopez?");
 
 if (+answerTwo === 49) {
-	correct++;
+  correct++;
 }
 
 //Quesstion 3
 let answerThree = prompt("How old is Halle Berry?");
 
 if (+answerThree == 51) {
-	correct++;
+  correct++;
 }
 
 //Quesstion 4
 let answerFour = prompt("How old is Anna Kendrick?");
 
 if (+answerFour === 33) {
-	correct++;
+  correct++;
 }
 
 //Quesstion 5
 let answerFive = prompt("How old is Sandra Bullock?");
 
 if (+answerFive === 54) {
-	correct++;
+  correct++;
 }
 
 console.log(correct);
@@ -64,16 +64,16 @@ console.log(correct);
    - 0 correct = No crown
 */
 
-if (correct ===5) { 
-	rank = "Gold";
+if (correct === 5) {
+  rank = "Gold";
 } else if ((correct >= 3) && (correct <= 4)) {
-	rank = "Silver";	
-} else if ((correct  >= 1) && (correct <= 2)) {
-	rank = "Bronze";	
-} else  {
-	rank = "No crown";	
+  rank = "Silver";
+} else if ((correct >= 1) && (correct <= 2)) {
+  rank = "Bronze";
+} else {
+  rank = "No crown";
 }
 
 
 // 6. Output results to the <main> element
-main.innerHTML=`You answered ${correct} out of 5 questions and your rank is ${rank}`
+main.innerHTML = `You answered ${correct} out of 5 questions and your rank is ${rank}`

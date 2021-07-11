@@ -9,12 +9,12 @@ var flipPairs = function (string) {
 
   var flipPairString = string.split("");
   console.log(flipPairString);
-  var reversedFlipPairString =[];
-  
-  for (var i = 0; i < flipPairString.length; i=i+2) {
-  reversedFlipPairString.push(flipPairString[i+1]);
-  reversedFlipPairString.push(flipPairString[i]);
-}
+  var reversedFlipPairString = [];
+
+  for (var i = 0; i < flipPairString.length; i = i + 2) {
+    reversedFlipPairString.push(flipPairString[i + 1]);
+    reversedFlipPairString.push(flipPairString[i]);
+  }
   return reversedFlipPairString.join('');
 }
 
@@ -32,9 +32,9 @@ var detectOutlierValue = function (array) {
     if (array[i] % 2 === 0) {
       evenNumbers.push(array[i]);
     } else oddNumbers.push(array[i]);
-}
+  }
   if (evenNumbers.length < oddNumbers.length) {
-  return evenNumbers[0];
+    return evenNumbers[0];
   } else return oddNumbers[0];
 }
 
@@ -48,19 +48,19 @@ console.log(detectOutlierValue([2, 4, 6, 10, 11, 14]));
 //Find Target Pair For Sum
 var findPairForSum = function (array, sum) {
   // Implement your code below
-  var answer =[];
-  for (var j = 0; j < array.length; j++) { 
+  var answer = [];
+  for (var j = 0; j < array.length; j++) {
     for (var i = 0; i < array.length; i++) {
-    if (array[j] + array[i] === sum && answer.length == 0) {
-      answer.push(array[j], array[i]);
-      break;
+      if (array[j] + array[i] === sum && answer.length == 0) {
+        answer.push(array[j], array[i]);
+        break;
+      }
     }
-}
-}
-if (answer[0] > answer[1]) {
-  answer.reverse();
-}
-return answer;
+  }
+  if (answer[0] > answer[1]) {
+    answer.reverse();
+  }
+  return answer;
 };
 
 console.log(findPairForSum([3, 7, 10, 15, 9], 19));
@@ -75,8 +75,8 @@ var average = function (array) {
   // Implement your code below
   var sum = 0;
   var average;
-  
-  for (var i=0; i < array.length; i++){
+
+  for (var i = 0; i < array.length; i++) {
     sum += array[i];
   }
   average = sum / array.length;

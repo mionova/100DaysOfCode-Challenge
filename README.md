@@ -462,7 +462,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 ### Day 41 of 100
   
-**Date**: July 5th, 2021
+**Date**: July 6th, 2021
 
 **Today's JavaScript Progress**: Practiced List Section Selection (a warm up for an upcoming project) and did a few quiz questions.
 
@@ -471,7 +471,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 ### Day 42 of 100
   
-**Date**: July 6th, 2021
+**Date**: July 7th, 2021
 
 **Today's JavaScript Progress**: Practiced working with a short collection of buttons. Used JavaScript to remove the "active" class name from all buttons and add it to the most recently clicked button.
 
@@ -480,7 +480,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 ### Day 43 of 100
   
-**Date**: July 7th, 2021
+**Date**: July 8th, 2021
 
 **Today's JavaScript Progress**: Practiced simple search (a warm up for an upcoming project).
 
@@ -489,7 +489,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 ### Day 44 of 100
   
-**Date**: July 8th, 2021
+**Date**: July 9th, 2021
 
 **Today's JavaScript Progress**: Started working on a project that involves data pagination and filtering. Stay tuned!!!
 
@@ -498,7 +498,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 ### Day 45 of 100
   
-**Date**: July 9th, 2021
+**Date**: July 10th, 2021
 
 **Today's JavaScript Progress**: Continued working on a project that involves data pagination and filtering. Wrote and tested a function that displays dynamically 9 studens on a page. Started writing and testing another function that displays the pagination buttons on the page.
 

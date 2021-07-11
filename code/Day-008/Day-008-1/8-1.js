@@ -18,6 +18,6 @@ book.author = 'J.K. Rowling';
 book.publish_year = 2020;
 
 // Use a for-in loop to print the book object to the console:
-for(let key in book) {
+for (let key in book) {
     console.log(key + ": " + book[key]);
 }

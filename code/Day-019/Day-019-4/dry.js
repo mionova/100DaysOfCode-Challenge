@@ -7,16 +7,32 @@ Challenge 19-4 Refactoring using DRY methodology
 
 
 
-const fruits = [
-  { name: "grapes", price: "2.50" },
-  { name: "oranges", price: "1.50" },
-  { name: "apples", price: "2.75" },
+const fruits = [{
+    name: "grapes",
+    price: "2.50"
+  },
+  {
+    name: "oranges",
+    price: "1.50"
+  },
+  {
+    name: "apples",
+    price: "2.75"
+  },
 ];
 
-const vegetables = [
-  { name: "carrots", price: "2.25" },
-  { name: "celery", price: "1.75" },
-  { name: "red peppers", price: "3.00" },
+const vegetables = [{
+    name: "carrots",
+    price: "2.25"
+  },
+  {
+    name: "celery",
+    price: "1.75"
+  },
+  {
+    name: "red peppers",
+    price: "3.00"
+  },
 ];
 
 function convertPrice(array) {

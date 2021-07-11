@@ -10,7 +10,7 @@ console.log(thirdWord);
 
 
 // 2. Combine the input with other words to create a story.
-const story =`<p>There was a ${firstWord} who wanted to ${secondWord} in order to ${thirdWord}</p>`;
+const story = `<p>There was a ${firstWord} who wanted to ${secondWord} in order to ${thirdWord}</p>`;
 
 // 3. Display the story as a <p> inside the <main> element.
 document.querySelector('main').innerHTML = story;

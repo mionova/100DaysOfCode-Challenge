@@ -9,11 +9,11 @@ String Repeater With Optional Delimiter
 
 var stringRepeater = function (string, times, delimiter) {
   var repeatedString = string;
-  
+
   if (delimiter === undefined) {
     delimiter = ' ';
   }
-  
+
   for (var i = 1; i < times; i++) {
     repeatedString = repeatedString + delimiter + string;
   }
@@ -42,8 +42,8 @@ var nestedArray = [
 var stringJoiner = function (arr) {
   var string = "";
   // write your nested for loop below
-    for(i=0; i<arr.length; i++){
-      for(j=0; j<arr[i].length; j++){
+  for (i = 0; i < arr.length; i++) {
+    for (j = 0; j < arr[i].length; j++) {
       string = string + arr[i][j];
     }
   }
@@ -59,17 +59,17 @@ console.log(stringJoiner(nestedArray));
 Implement a Search And Destroy function that accepts two inputs, an array and a data value called the "target".Return a new array after removing ALL instances of "target" inside the array.
 */
 var searchAndDestroy = function (arr, target) {
-   var i;
-   var arr;
-   var target;
-   
-   for (i=0; i<arr.length; i++) {
-     var index = arr.indexOf(target);
-     if (arr[i] === target){
-     arr = arr.slice(0, index).concat(arr.slice(index + 1));
-   }
+  var i;
+  var arr;
+  var target;
+
+  for (i = 0; i < arr.length; i++) {
+    var index = arr.indexOf(target);
+    if (arr[i] === target) {
+      arr = arr.slice(0, index).concat(arr.slice(index + 1));
+    }
   }
-  
+
   return arr;
 }
 
@@ -112,25 +112,25 @@ function range(start, end, step) {
   var arr = [];
   // Your code here
   if (step === undefined) {
-  step = 1;
-  for (var i = start; i <= end; i++) 
-  arr.push(i)
+    step = 1;
+    for (var i = start; i <= end; i++)
+      arr.push(i)
   } else if (step > 0) {
-  for (var i = start; i <= end; i = i + step) 
-  arr.push(i); 
+    for (var i = start; i <= end; i = i + step)
+      arr.push(i);
   } else {
-  for (var i = start; i >= end; i = i + step) 
-  arr.push(i);    
-  } 
+    for (var i = start; i >= end; i = i + step)
+      arr.push(i);
+  }
   return arr;
 }
 
 function sum(arr) {
-  var sum = 0; 
+  var sum = 0;
   // Your code here
   for (var i = 0; i <= arr.length; i++) {
-  sum+=i;  
-  } 
+    sum += i;
+  }
   return sum;
 }
 
@@ -140,5 +140,3 @@ console.log(range(5, 2, -1));
 // → [5, 4, 3, 2]
 console.log(sum(range(1, 10)));
 // → 55
-
-

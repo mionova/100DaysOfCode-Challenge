@@ -26,11 +26,11 @@ message += "<br>";
 message += num1 + " / " + num2 + " = " + (num1 / num2);
 message += "<br>";
 message += num1 + " - " + num2 + " = " + (num1 - num2);
-  
+
 
 // logic
 if (isNaN(num2 && num1)) {
-    alert (`At least one of the values you typed is not a number. Reload and try again.`);
-} else if (num2===0) {
-    alert (`The second number is 0. You can't divide by zero. Reload and again.`);
-}	else document.write(message);
+    alert(`At least one of the values you typed is not a number. Reload and try again.`);
+} else if (num2 === 0) {
+    alert(`The second number is 0. You can't divide by zero. Reload and again.`);
+} else document.write(message);

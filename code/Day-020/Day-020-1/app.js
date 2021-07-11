@@ -26,7 +26,7 @@ listUl.addEventListener('click', (event) => {
       if (prevLi) {
         ul.insertBefore(li, prevLi);
       }
-    }  
+    }
     if (event.target.className == 'down') {
       let li = event.target.parentNode;
       let nextLi = li.nextElementSibling;
@@ -34,7 +34,7 @@ listUl.addEventListener('click', (event) => {
       if (nextLi) {
         ul.insertBefore(nextLi, li);
       }
-    } 
+    }
   }
 });
 
@@ -43,9 +43,9 @@ toggleList.addEventListener('click', () => {
     toggleList.textContent = 'Hide list';
     listDiv.style.display = 'block';
   } else {
-    toggleList.textContent = 'Show list';                        
+    toggleList.textContent = 'Show list';
     listDiv.style.display = 'none';
-  }                         
+  }
 });
 
 descriptionButton.addEventListener('click', () => {
@@ -60,7 +60,3 @@ addItemButton.addEventListener('click', () => {
   ul.appendChild(li);
   addItemInput.value = '';
 });
-  
-  
-  
-  

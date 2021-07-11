@@ -43,11 +43,11 @@ var every = function (array, test) {
 
 var some = function (array, test) {
   // Your implementation below
-   for (var i = 0; i < array.length; i++) {
+  for (var i = 0; i < array.length; i++) {
     if (test(array[i])) {
       return true;
     }
-  return false; // true or false
+    return false; // true or false
   }
 }
 
@@ -75,7 +75,7 @@ var numbers = [1, 3, 5, 7];
 
 var editArray = function (arr) {
   var newArr = arr.slice();
-  
+
   newArr[0] = 10;
   return newArr;
 };
@@ -99,8 +99,8 @@ var person = {
 
 person.greet = function () {
   // Implement your code below
-  
-  return "I am " + this.name + "," + " I am " + this.age +"."; 
+
+  return "I am " + this.name + "," + " I am " + this.age + ".";
 }
 
 console.log(person.greet() === "I am David, I am 23.");
@@ -128,20 +128,20 @@ When you have a program that generates this pattern, change the program so that 
 */
 function createGrid(height, width) {
 
-  var output ="";
-  for(var i = 0; i < height; i++){
-   for(var a = 0; a < width; a++){
-    output += (a % 2) == (i % 2) ? " " : "#";
-   }
-   if (i < (height-1)) {
-     output += "\n";
-   } else {
-     output = output;
-   }
+  var output = "";
+  for (var i = 0; i < height; i++) {
+    for (var a = 0; a < width; a++) {
+      output += (a % 2) == (i % 2) ? " " : "#";
+    }
+    if (i < (height - 1)) {
+      output += "\n";
+    } else {
+      output = output;
+    }
   }
-    return output;
-  }
-  console.log(createGrid(8, 8));
-  
-  console.log(createGrid(3, 3) === " # \n# #\n # ");
-  console.log(createGrid(4, 3) === " # \n# #\n # \n# #");
+  return output;
+}
+console.log(createGrid(8, 8));
+
+console.log(createGrid(3, 3) === " # \n# #\n # ");
+console.log(createGrid(4, 3) === " # \n# #\n # \n# #");

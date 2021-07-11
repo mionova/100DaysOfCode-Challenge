@@ -18,36 +18,36 @@ function smallestCommonM(arr) {
   var min = arr[0];
   var max = arr[1];
   var array = [];
-  
-     function range(min, max) {
-         for (var i = min; i <= max; i++) {
-             array.push(i);
-         }
-         return array;
-     }
- 
-     function gcd(a, b) {
-         return !b ? a : gcd(b, a % b);
-     }
- 
-     function lcm(a, b) {
-         return (a * b) / gcd(a, b);   
-     }
- 
-     var multiple = min;
-     range(min, max).forEach(function(n) {
-         multiple = lcm(multiple, n);
-     });
- 
-     return multiple;
- }
- 
- console.log(smallestCommonM([1, 5]));
- // -> 60
- console.log(smallestCommonM([5, 1]));
- // -> 60
- console.log(smallestCommonM([1, 13]));
- // -> 360360
+
+  function range(min, max) {
+    for (var i = min; i <= max; i++) {
+      array.push(i);
+    }
+    return array;
+  }
+
+  function gcd(a, b) {
+    return !b ? a : gcd(b, a % b);
+  }
+
+  function lcm(a, b) {
+    return (a * b) / gcd(a, b);
+  }
+
+  var multiple = min;
+  range(min, max).forEach(function (n) {
+    multiple = lcm(multiple, n);
+  });
+
+  return multiple;
+}
+
+console.log(smallestCommonM([1, 5]));
+// -> 60
+console.log(smallestCommonM([5, 1]));
+// -> 60
+console.log(smallestCommonM([1, 13]));
+// -> 360360
 
 
 
@@ -65,38 +65,35 @@ Sum of prime numbers smaller than or equal to 10 would be:
 2 + 3 + 5 + 7 = 17
 */
 var sumPrimes = function (max) {
-  
+
   // inner function that checks whether a number is a prime number 
   var isPrime = function (num) {
     for (var i = 2; i < num; i++)
-      if(num % i === 0) return false;
-      return num > 1;
+      if (num % i === 0) return false;
+    return num > 1;
   }
-  
-    //  array variable to store a list of prime numbers that we will find
-   var primeNumbers =[];
-   var sum = 0; 
-  
+
+  //  array variable to store a list of prime numbers that we will find
+  var primeNumbers = [];
+  var sum = 0;
+
   for (var i = 2; i <= max; i++) {
-      if (isPrime(i)) {
-        primeNumbers.push(i);
-      }
+    if (isPrime(i)) {
+      primeNumbers.push(i);
     }
-  
+  }
+
   // for personal verification; not part of the task in hand  
-  console.log(primeNumbers); 
-  
+  console.log(primeNumbers);
+
   for (var i = 0; i < primeNumbers.length; i++) {
     sum = sum + primeNumbers[i];
   };
-  
+
   return sum;
-  };
-  
-  console.log(sumPrimes(10));
-  // -> 17
-  console.log(sumPrimes(977));
-  // -> 73156
+};
 
-
-
+console.log(sumPrimes(10));
+// -> 17
+console.log(sumPrimes(977));
+// -> 73156

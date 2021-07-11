@@ -7,9 +7,9 @@ const person = {
     age: 37,
     isStudent: true,
     skills: ['JavaScript', 'HTML', 'CSS']
-  };
-  
-  
-  for (let prop in person) {
-      console.log (`${prop}: ${person[prop]}`);
-  }
+};
+
+
+for (let prop in person) {
+    console.log(`${prop}: ${person[prop]}`);
+}

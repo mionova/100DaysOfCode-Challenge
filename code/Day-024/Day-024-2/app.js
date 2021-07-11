@@ -26,27 +26,15 @@ form.addEventListener('submit', (e) => {
   li.appendChild(label);
   ul.appendChild(li);
 });
-  
+
 ul.addEventListener('change', (e) => {
   const checkbox = event.target;
   const checked = checkbox.checked;
   const listItem = checkbox.parentNode.parentNode;
-  
+
   if (checked) {
     listItem.className = 'responded';
   } else {
     listItem.className = '';
   }
 });
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  

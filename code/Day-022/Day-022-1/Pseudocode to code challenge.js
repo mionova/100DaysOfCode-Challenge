@@ -12,18 +12,18 @@ Requirements:
 - If any grade isn't a 1,2,3 or 4 print a message and stop the program
 */
 
-function calculateGpa (num1, num2, mum3, num4) {
-    let gradeTotal = 0;
-    let grade = [num1, num2, mum3, num4];
-    for (let i=0; i<grade.length; i++) {
-      if (grade[i]==1 || grade[i]==2 || grade[i]==3 || grade[i]==4) {
-        gradeTotal += grade[i];
-      } else {
-        return 'Invalid grade';
-      }
+function calculateGpa(num1, num2, mum3, num4) {
+  let gradeTotal = 0;
+  let grade = [num1, num2, mum3, num4];
+  for (let i = 0; i < grade.length; i++) {
+    if (grade[i] == 1 || grade[i] == 2 || grade[i] == 3 || grade[i] == 4) {
+      gradeTotal += grade[i];
+    } else {
+      return 'Invalid grade';
     }
-    let gpa = gradeTotal/grade.length;
-    return gpa;
+  }
+  let gpa = gradeTotal / grade.length;
+  return gpa;
 }
 
 // set reggieGrades to 4, 4, 3, 4
