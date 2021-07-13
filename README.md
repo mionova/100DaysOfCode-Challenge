@@ -2,12 +2,12 @@
 
 ## Commitment
 
-Starting May 24, 2021 I will code for at least an hour every day for the next 100 days so that I can improve my JavaScript skills. Additional rules:
+Starting May 24, 2021, I will code for at least an hour every day for the next 100 days so that I can improve my JavaScript skills. Additional rules:
 
 1. I will [tweet](https://twitter.com/mariaionova) about my progress every day using the hashtag #100DaysOfCode
-2. I will push code to GitHub every day so that anyone can see my progress.
+2. I will push code to GitHub every day.
 3. I will update the [Daily Log](#daily-log) section below with my daily progress and provide a link so others can see my progress.
-4. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will _not_ count towards this challenge but I can use the excercises for the challenge if I code them myself before watching the solution.
+4. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses, and other similar resources will _not_ count towards this challenge but I can use the exercises for the challenge if I code them myself before watching the solution.
 5. I am allowed to skip a day every two weeks if life gets in the way, but I will need to add a day to the challenge for every day that I have skipped.
 6. While solving the challenges, I will be solely focused on JavaScript for now and will be using HTML/CSS if the files for that are provided. Designing beautiful and usable interfaces will be out of scope for this challenge but I will try to come back and revisit the look and feel after the challenger is over.
 
@@ -75,7 +75,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 **Today's Progress**: Continued reviewing JavaScript basics and completed the following exercises:
   
 1. Display a list of songs from an array on a web page.
-2. Check if a product is in-stock and how it is positioned on the list.
+2. Check if a product is in stock and how it is positioned on the list.
 3. Build a Quiz by creating a multidimensional array to hold quiz questions and answers.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-005)   
@@ -128,7 +128,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Today's JavaScript Progress**: I made some progress on a little project: A Random Quote Generator
 
-For this project, I'm creating an app that displays random famous quotes each time a button is clicked. All quotes have a source but some also display citation and year.
+For this project, I'm creating an app that displays random famous quotes each time a button is clicked. All quotes have a source but some also display a citation and year.
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-009)   
 &nbsp;  
@@ -161,7 +161,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
   
 **Date**: June 4th, 2021
   
-**Today's JavaScript Progress**: Lightweight practice with functions, arrays and random numbers. Used JavaScript to create a function that grabs a random number from an array. And then I called that function a couple of times to simulate a dice roll game between two players.
+**Today's JavaScript Progress**: Lightweight practice with functions, arrays, and random numbers. Used JavaScript to create a function that grabs a random number from an array. And then I called that function a couple of times to simulate a dice roll game between two players.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-012)   
 &nbsp;  
@@ -174,7 +174,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
   
 1. Select an element with JavaScript and change its color on click
 2. Practice selecting DOM elements and listening for events.
-3. Build a string conditionally from the properties of a provided random object.Then print that string to the page.
+3. Build a string conditionally from the properties of a provided random object. Then print that string to the page.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-013)   
 &nbsp;  
@@ -500,7 +500,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
   
 **Date**: July 10th, 2021
 
-**Today's JavaScript Progress**: Continued working on a project that involves data pagination and filtering. Wrote and tested a function that displays dynamically 9 studens on a page. Started writing and testing another function that displays the pagination buttons on the page.
+**Today's JavaScript Progress**: Continued working on a project that involves data pagination and filtering. Wrote and tested a function that displays dynamically 9 students on a page. Started writing and testing another function that displays the pagination buttons on the page.
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-045)   
 &nbsp;   
@@ -509,7 +509,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
   
 **Date**: July 11th, 2021
 
-**Today's JavaScript Progress**: Continued working on the project that involves data pagination and filtering. Currently everything is functioning as expected - the list of students is displayed dynamically on the page using pagination. Yay!!! The next step would be adding filtering functionality and refactoring the code. 
+**Today's JavaScript Progress**: Continued working on the project that involves data pagination and filtering. Currently, everything is functioning as expected - the list of students is displayed dynamically on the page using pagination. Yay!!! The next step would be adding filtering functionality and refactoring the code. 
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-046)   
 &nbsp;    
