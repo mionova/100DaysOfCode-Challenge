@@ -512,4 +512,13 @@ Currently, the app displays random famous quotes each time a button is clicked a
 **Today's JavaScript Progress**: Continued working on the project that involves data pagination and filtering. Currently everything is functioning as expected - the list of students is displayed dynamically on the page using pagination. Yay!!! The next step would be adding filtering functionality and refactoring the code. 
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-046)   
+&nbsp;    
+
+### Day 47 of 100
+  
+**Date**: July 12th, 2021
+
+**Today's JavaScript Progress**: Continued working on the project that involves data pagination and filtering. Found a bug during QA testing and did some refactoring to fix it. 
+
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-047)   
 &nbsp; 
