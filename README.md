@@ -521,4 +521,13 @@ Currently, the app displays random famous quotes each time a button is clicked a
 **Today's JavaScript Progress**: Continued working on the project that involves data pagination and filtering. Found a bug during QA testing and did some refactoring to fix it. 
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-047)   
+&nbsp;     
+
+### Day 48 of 100
+  
+**Date**: July 13th, 2021
+
+**Today's JavaScript Progress**: Added filtering functionality to the data pagination and filtering project that I have been working on. It looks like there is a little bug happening here but I will tackle it soon.
+
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-048)   
 &nbsp; 
