@@ -84,9 +84,7 @@ function addPagination(list) {
 
 
 /*
-Step 3: Filtering the list of students
-___
-The search should be case insensitive and work for partial matches. For example, if the value B or b is typed into the search field, students with “Bill” in the name would be shown. Likewise, if LL were typed into the search field, students with the first name "Bill" would appear, as well as students with a last name "Williams".
+Step 3: Filtering the list of students - case insensitive search that works for partial matches.
 */
 
 /* adding an `input` and search `button` elements */
@@ -112,7 +110,7 @@ function performSearch(userInput, list) {
     const name = `${list[i].name.first} ${list[i].name.last}`.toLowerCase();
     //comparing user input to `name`
     if (name.includes(userInput.toLowerCase())) {
-      //creating filteredList with matching student data
+      //creating an array with matching student data
       filteredList.push(list[i]);
     }
   }
