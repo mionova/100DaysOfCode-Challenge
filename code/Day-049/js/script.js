@@ -110,9 +110,9 @@ function performSearch(userInput, list) {
   const filteredList = [];
   for (let i = 0; i < list.length; i++) {
     const name = `${list[i].name.first} ${list[i].name.last}`.toLowerCase();
-    //compares user input to object literal from above
+    //comparing user input to `name`
     if (name.includes(userInput.toLowerCase())) {
-      //must use push method in order to populate page with matching data
+      //creating filteredList with matching student data
       filteredList.push(list[i]);
     }
   }
@@ -149,7 +149,6 @@ const submit = document.querySelector("label button");
 
 //attaching addEventListener to the search button
 submit.addEventListener('click', () => {
-  //preventDefault();
   searchFunc(search.value);
 });
 
