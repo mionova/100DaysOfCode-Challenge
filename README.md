@@ -7,7 +7,7 @@ Starting May 24, 2021, I will code for at least an hour every day for the next 1
 1. I will [tweet](https://twitter.com/mariaionova) about my progress every day using the hashtag #100DaysOfCode
 2. I will push code to GitHub every day.
 3. I will update the [Daily Log](#daily-log) section below with my daily progress and provide a link so others can see my progress.
-4. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses, and other similar resources will _not_ count towards this challenge but I can use the exercises for the challenge if I code them myself before watching the solution.
+4. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses, and other similar resources will _not_ count towards this challenge but I can use the exercises for the challenge if I code them myself before or after watching the solution.
 5. I am allowed to skip a day every two weeks if life gets in the way, but I will need to add a day to the challenge for every day that I have skipped.
 6. While solving the challenges, I will be solely focused on JavaScript for now and will be using HTML/CSS if the files for that are provided. Designing beautiful and usable interfaces will be out of scope for this challenge but I will try to come back and revisit the look and feel after the challenger is over.
 
@@ -530,4 +530,13 @@ Currently, the app displays random famous quotes each time a button is clicked a
 **Today's JavaScript Progress**: Added filtering functionality to the data pagination and filtering project that I have been working on. It looks like there is a little bug happening but I will tackle it soon.
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-048)   
+&nbsp;     
+
+### Day 49 of 100
+  
+**Date**: July 14th, 2021
+
+**Today's JavaScript Progress**: Finalized the data pagination and filtering project after fixing a bug that I discovered yesterday and adding a few more tweaks.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-049)   
 &nbsp; 
