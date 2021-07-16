@@ -545,7 +545,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
   
 **Date**: July 15th, 2021
 
-**Today's JavaScript Progress**: Since I will be working on an interactive form soon, I took the time to review HTML forms and form elements.
+**Today's HTML Progress**: Since I will be working on an interactive JS form soon, I took the time to review HTML forms and form elements. Also dug into JavaScript history for a little bit. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-050)   
 &nbsp; 
