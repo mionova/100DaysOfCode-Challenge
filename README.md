@@ -548,4 +548,13 @@ Currently, the app displays random famous quotes each time a button is clicked a
 **Today's HTML Progress**: Since I will be working on an interactive JS form soon, I took the time to review HTML forms and form elements. Also dug into JavaScript history for a little bit. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-050)   
+&nbsp;      
+
+### Day 51 of 100
+  
+**Date**: July 16th, 2021
+
+**Today's HTML Progress**: Learning more about accessibility is a valuable way to improve the code quality. Today, I've taken the time to learn more about how to make an accessible form, and I've built the example below as a result.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-051)   
 &nbsp; 
