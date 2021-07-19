@@ -563,7 +563,24 @@ Currently, the app displays random famous quotes each time a button is clicked a
   
 **Date**: July 17th, 2021
 
-**Today's HTML Progress**: Got some practice using regular expressions and built a form that uses regular expressions to validate the data typed in. 
+**Today's JavaScript Progress**: Got some practice using regular expressions and built a form that uses regular expressions to validate the data typed in. 
+  
+1. Using Regular Expressions
+2. Flags (to change what the regular expression matches)
+3. Validating a form (username, password, phone, email)
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-052)   
+&nbsp;        
+
+### Day 53 of 100
+  
+**Date**: July 18th, 2021
+
+**Today's JavaScript Progress**: Continued with the regex stuff:
+
+1. Solved a couple of challenges: One where I had to write a validator for a hexadecimal string used to set a CSS and a second one where I had to assign a replacement string to a variable.
+2. Used 'replace' with captured groups
+2. Reformatted user input (masking a phone number)
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-053)   
 &nbsp; 
