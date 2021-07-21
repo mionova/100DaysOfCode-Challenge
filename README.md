@@ -592,9 +592,9 @@ Currently, the app displays random famous quotes each time a button is clicked a
 **Today's JavaScript Progress**: Spent some time to learn how closures are used to preserve data between function calls:
 
 1. The problem with globals
-2. What is closure?
-2. Using closures to fix the problem with globals
-2. Uses for closers
+2. What is a closure?
+3. Using closures to fix the problem with globals
+4. Uses for closers
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-054)   
 &nbsp; 
