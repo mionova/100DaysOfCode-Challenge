@@ -583,4 +583,18 @@ Currently, the app displays random famous quotes each time a button is clicked a
 2. Reformatted user input (masking a phone number)
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-053)   
+&nbsp;        
+
+### Day 54 of 100
+  
+**Date**: July 20th, 2021
+
+**Today's JavaScript Progress**: Spent some time to learn how closures are used to preserve data between function calls:
+
+1. The problem with globals
+2. What is closure?
+2. Using closures to fix the problem with globals
+2. Uses for closers
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-054)   
 &nbsp; 
