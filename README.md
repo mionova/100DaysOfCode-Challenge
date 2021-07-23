@@ -606,4 +606,13 @@ Currently, the app displays random famous quotes each time a button is clicked a
 **Today's JavaScript Progress**: Learned about asynchronous JavaScript and XML, or AJAX – how it works and who uses it.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-055)   
+&nbsp;       
+
+### Day 56 of 100
+  
+**Date**: July 22nd, 2021
+
+**Today's JavaScript Progress**: Continued learning about asynchronous JavaScript and XML, or AJAX.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-056)   
 &nbsp; 
