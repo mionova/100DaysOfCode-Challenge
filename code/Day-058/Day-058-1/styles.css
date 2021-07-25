@@ -1,0 +1,15 @@
+body {
+  background: #384047;
+  font-family: sans-serif;
+}
+section {
+  background: #fff;
+  padding: 1em;
+  max-width: 400px;
+  margin: 100px auto 0;
+  box-shadow: 0 0 1em #222;
+  border-radius: 5px;
+  text-align: center;
+  font-family: 'VT323', monospace;
+  font-size: 2em;
+}

@@ -619,9 +619,18 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 ### Day 57 of 100
   
-**Date**: July 22nd, 2021
+**Date**: July 23rd, 2021
 
 **Today's JavaScript Progress**: Concluded learning about asynchronous JavaScript and XML, or AJAX.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-057)   
+&nbsp;      
+
+### Day 58 of 100
+  
+**Date**: July 24th, 2021
+
+**Today's JavaScript Progress**: Looked into callback functions and built a few simple projects using them. Also very jet lagged at the moment.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-058)   
 &nbsp; 
