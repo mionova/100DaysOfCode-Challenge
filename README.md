@@ -632,5 +632,23 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 **Today's JavaScript Progress**: Looked into callback functions and built a few simple projects using them. Also very jet lagged at the moment.
 
+1. Introduction to callback functions
+2. Using a one-off timer with setTimeout
+3. Using a reapeat timer with setInterval
+
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-058)   
+&nbsp; 
+
+     
+### Day 59 of 100
+  
+**Date**: July 25th, 2021
+
+**Today's JavaScript Progress**: Contionued a little more with the callback functions and the simple projects using them:
+
+1. Quiz quesitons: Trigger startAnimation function 2 sec after the page loads + Add an event listener to every button on a page
+2. Callbacks with Arguments
+3. Using callbacks on text inputs
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-059)   
 &nbsp; 
