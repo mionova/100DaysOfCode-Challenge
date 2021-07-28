@@ -661,4 +661,21 @@ Currently, the app displays random famous quotes each time a button is clicked a
 **Today's JavaScript Progress**: Learned about asynchronous programming with JavaScript – examples, asynchronous JavaScript with callbacks, etc.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-060)   
+&nbsp;  
+
+     
+### Day 61 of 100
+  
+**Date**: July 27th, 2021
+
+**Today's JavaScript Progress**: Continued wiht asynchronous programming with JavaScript by practicing the following:
+
+1. Create a promise 
+2. Reject a promise and handle errors
+3. Transition from callbacks to promises
+4. Handle multiple promises with promise all
+5. Perform cleanup with finally
+6. Using fetch
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-061)   
 &nbsp; 
