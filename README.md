@@ -668,7 +668,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
   
 **Date**: July 27th, 2021
 
-**Today's JavaScript Progress**: Continued wiht asynchronous programming with JavaScript by practicing the following:
+**Today's JavaScript Progress**: Continued with asynchronous programming with JavaScript by practicing the following:
 
 1. Create a promise 
 2. Reject a promise and handle errors
