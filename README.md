@@ -679,3 +679,17 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-061)   
 &nbsp; 
+
+     
+### Day 62 of 100
+  
+**Date**: July 28th, 2021
+
+**Today's JavaScript Progress**: Continued with asynchronous programming with JavaScript by exploring async/await:
+
+1. Convert promise handling to async/await
+2. Combine async/await with promises
+3. Error handling with try/catch
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-062)   
+&nbsp; 
