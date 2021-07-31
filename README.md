@@ -707,3 +707,16 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-063)   
 &nbsp; 
+     
+### Day 64 of 100
+  
+**Date**: July 30th, 2021
+
+**Today's JavaScript Progress**: Continued learning about working with the Fetch API by:
+
+1. Handling errors
+2. Manage multiple requests with Promise.all
+3. Posting data with fetch()
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-064)   
+&nbsp; 
