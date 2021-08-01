@@ -720,3 +720,12 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-064)   
 &nbsp; 
+     
+### Day 65 of 100
+  
+**Date**: July 31th, 2021
+
+**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I made a JS drum kit that is really sweet to play. When you hit the key on your keyboard, it does two things - it plays the sound associated with that key and it also does a short animation.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-065)   
+&nbsp; 
