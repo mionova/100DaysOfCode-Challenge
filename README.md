@@ -743,14 +743,14 @@ Currently, the app displays random famous quotes each time a button is clicked a
   
 **Date**: August 2nd, 2021
 
-**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I did an excercise to update CSS variables with JavaScript. 
+**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I did an exercise to update CSS variables with JavaScript. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-067)   
 &nbsp;  
      
 ### Day 68 of 100
   
-**Date**: August 2nd, 2021
+**Date**: August 3rd, 2021
 
 **Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I initialized a typeahead with JavaScript. 
 
