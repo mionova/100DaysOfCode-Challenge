@@ -756,3 +756,12 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-068)   
 &nbsp; 
+     
+### Day 69 of 100
+  
+**Date**: August 5th, 2021
+
+**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I learned all about speech recognition in browsers. Very impressive you can do this in the browser without the need of any other libraries or external APIs.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-069)   
+&nbsp; 
