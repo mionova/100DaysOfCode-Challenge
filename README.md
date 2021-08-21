@@ -765,3 +765,137 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-069)   
 &nbsp; 
+     
+### Day 70 of 100
+  
+**Date**: August 6th, 2021
+
+**Today's JavaScript Progress**: Spent a whole hour learning the ins and outs of markdown. 
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-070)   
+&nbsp;  
+     
+### Day 71 of 100
+  
+**Date**: August 7th, 2021
+
+**Today's JavaScript Progress**: I built a slide-in on scroll so that the images slide themselves in when the user scrolls down. 
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-071)   
+&nbsp;  
+     
+### Day 72 of 100
+  
+**Date**: August 8th, 2021
+
+**Today's JavaScript Progress**: As part of the JavaScript30 course, I built a totally custom interface of an HTML5 video player with play/pause buttons, a slider, skip buttons, a speed controller. 
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-072)   
+&nbsp;  
+     
+### Day 73 of 100
+  
+**Date**: August 9th, 2021
+
+**Today's JavaScript Progress**: As part of Wes Boss's JavaScript30 course, I played with the speech synthesis API that comes with most modern browsers!!
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-073)   
+&nbsp;  
+     
+### Day 74 of 100
+  
+**Date**: August 10th, 2021
+
+**Today's JavaScript Progress**: As part of Wes Boss's JavaScript30 course, I played with CSS Text Shadow Mouse Move Effect and created a Sticky Nav!
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-074)   
+&nbsp;  
+     
+### Day 75 of 100
+  
+**Date**: August 11th, 2021
+
+**Today's JavaScript Progress**: As part of Wes Boss's JavaScript30 course, I created a countdown clock Clock face two oclock!!
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-075)   
+&nbsp;  
+     
+### Day 76 of 100
+  
+**Date**: August 12th, 2021
+
+**Today's JavaScript Progress**: Created a cool CSS Text Shadow Mouse move effect so that when you move your mouse over the top of the window, the shadow starts to follow you around. 
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-076)   
+&nbsp;  
+     
+### Day 77 of 100
+  
+**Date**: August 13th, 2021
+
+**Today's JavaScript Progress**: As part of Wess Boss's JavaScript30 course, I built a geolocation-based speedometer and compass! 
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-077)   
+&nbsp;  
+     
+### Day 78 of 100
+  
+**Date**: August 14th, 2021
+
+**Today's JavaScript Progress**: As part of Wess Boss's JavaScript30 course, I built a sticky nav and a follow-along dropdown. 
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-078)   
+&nbsp;  
+     
+### Day 79 of 100
+  
+**Date**: August 15th, 2021
+
+**Today's JavaScript Progress**: As part of Wes Boss's JavaScript30 course, I learned and practiced local storage and event delegation.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-079)   
+&nbsp;  
+     
+### Day 80 of 100
+  
+**Date**: August 16th, 2021
+
+**Today's JavaScript Progress**: As part of Wes Bos's JavaScript30 course, I played with a video speed controller UI.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-080)   
+&nbsp;  
+     
+### Day 81 of 100
+  
+**Date**: August 17th, 2021
+
+**Today's JavaScript Progress**: As part of Wes Bos's JavaScript30 course, I made a photo booth.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-081)   
+&nbsp;  
+     
+### Day 82 of 100
+  
+**Date**: August 18th, 2021
+
+**Today's JavaScript Progress**: As part of Wes Bos's JavaScript30 course, I learned and practiced Object and Arrays – Reference vs. Copy.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-082)   
+&nbsp;  
+     
+### Day 83 of 100
+  
+**Date**: August 19th, 2021
+
+**Today's JavaScript Progress**: As part of Wes Bos's JavaScript30 course, I made some progress towards the Built a Whack a Mole Game.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-083)   
+&nbsp;  
+     
+### Day 84 of 100
+  
+**Date**: August 20th, 2021
+
+**Today's JavaScript Progress**: Completed Whack a Mole game that was part of JavaScript30 course. When you run it you get these little critters popping up in random holes for random amounts of time. You need to click them to get a point. 
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-084)   
+&nbsp; 
