@@ -771,6 +771,7 @@ Currently, the app displays random famous quotes each time a button is clicked a
 **Date**: August 6th, 2021
 
 **Today's JavaScript Progress**: Spent a whole hour learning the ins and outs of markdown. 
+
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-070)   
 &nbsp;  
      
