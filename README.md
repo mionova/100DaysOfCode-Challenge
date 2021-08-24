@@ -900,3 +900,21 @@ Currently, the app displays random famous quotes each time a button is clicked a
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-084)   
 &nbsp; 
+     
+### Day 85 of 100
+  
+**Date**: August 22th, 2021
+
+**Today's JavaScript Progress**: Fixed a bug that I found in the Whack a Mole game that I completed yesterday.  
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-085)   
+&nbsp; 
+     
+### Day 86 of 100
+  
+**Date**: August 23th, 2021
+
+**Today's JavaScript Progress**: As part of the Javascript30 course, I went through a whole bunch of examples to get better at some array methods: map, sort, filter, reduce, etc.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-085)   
+&nbsp; 
