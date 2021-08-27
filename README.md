@@ -932,7 +932,16 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 25, 2021
 
-**Today's JavaScript Progress**: Today's JavaScript Progress: As part of Wes Bos’s Javascript30 course, I coded a pattern similar to Gmail where you hold shift to check multiple checkboxes.
+**Today's JavaScript Progress**: As part of Wes Bos’s Javascript30 course, I coded a pattern similar to Gmail where you hold shift to check multiple checkboxes.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-088)   
+&nbsp; 
+     
+### Day 89 of 100
+  
+**Date**: August 256, 2021
+
+**Today's JavaScript Progress**: As part of Wes Bos's Javascript30 course, I had some fun with the HTML5 Canvas. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-088)   
 &nbsp; 
