@@ -939,9 +939,54 @@ Currently, the app displays famous random quotes each time a button is clicked a
      
 ### Day 89 of 100
   
-**Date**: August 256, 2021
+**Date**: August 26, 2021
 
 **Today's JavaScript Progress**: As part of Wes Bos's Javascript30 course, I had some fun with the HTML5 Canvas. 
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-088)   
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-089)   
+&nbsp;  
+     
+### Day 90 of 100
+  
+**Date**: August 27, 2021
+
+**Today's JavaScript Progress**: Started coding the Rock Paper, Scissors game. 
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-090)   
+&nbsp;  
+     
+### Day 91 of 100
+  
+**Date**: August 28, 2021
+
+**Today's JavaScript Progress**: Almost done with the Rock, Paper, Scissors game. Working on some refinements and final touches. Stay tuned!
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-091)   
+&nbsp;  
+     
+### Day 92 of 100
+  
+**Date**: August 29, 2021
+
+**Today's JavaScript Progress**: Spent some time fixing a bug that I found in my Rock, Paper, Scissors game. I'm almost done! 
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-092)   
+&nbsp;  
+     
+### Day 93 of 100
+  
+**Date**: August 30, 2021
+
+**Today's JavaScript Progress**: My Rock, Paper, Scissors game is fully functional now!
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-093)   
+&nbsp;  
+     
+### Day 94 of 100
+  
+**Date**: August 31, 2021
+
+**Today's JavaScript Progress**: Changed the logic of the Rock, Paper, Scissors to add another mode. 
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-094)   
 &nbsp; 
