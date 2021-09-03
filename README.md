@@ -20,7 +20,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Today's JavaScript Progress**: May 24, 2021
   
-**Today's Progress**: Reviewed some fundamental programming concepts and syntax of the JavaScript programming language that I've learned in the past:
+**Date**: Reviewed some fundamental programming concepts and syntax of the JavaScript programming language that I've learned in the past:
   
 1. Created a function that returns the larger of two numbers.
 2. Displayed a story based on user input.
@@ -31,7 +31,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ### Day 2 of 100
   
-**Today's JavaScript Progress**: May 25, 2021
+**Date**: May 25, 2021
   
 **Today's Progress**: Reviewed JavaScript Numbers and JavaScript Functions that I've learned in the past and solved the following challenges:
   
@@ -70,7 +70,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ### Day 5 of 100
   
-**Today's JavaScript Progress**: May 28, 2021
+**Date**: May 28, 2021
   
 **Today's Progress**: Continued reviewing JavaScript basics and completed the following exercises:
   
@@ -986,7 +986,25 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 31, 2021
 
-**Today's JavaScript Progress**: Changed the logic of the Rock, Paper, Scissors to add another mode. 
+**Today's JavaScript Progress**: Changed the logic of the Rock, Paper, Scissors game to add another mode. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-094)   
+&nbsp;  
+     
+### Day 95 of 100
+  
+**Date**: September 1, 2021
+
+**Today's JavaScript Progress**: Started coding a Blackjack game. I think the biggest struggle is that I have never played Blackjack before...
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-095)   
+&nbsp; 
+     
+### Day 96 of 100
+  
+**Date**: September 2, 2021
+
+**Today's JavaScript Progress**: Continued coding the Blackjack game. I am dedicating about an hour per day, so it will take me a few days.
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-096)   
 &nbsp; 
