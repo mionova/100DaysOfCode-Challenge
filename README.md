@@ -1008,3 +1008,12 @@ Currently, the app displays famous random quotes each time a button is clicked a
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-096)   
 &nbsp; 
+     
+### Day 97 of 100
+  
+**Date**: September 3, 2021
+
+**Today's JavaScript Progress**: Made some progress with coding the Blackjack game. 
+
+[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-097)   
+&nbsp; 
