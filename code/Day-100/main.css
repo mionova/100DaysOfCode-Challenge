@@ -1,0 +1,45 @@
+.btn {
+	display: inline-block;
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	line-height: 1.5em;
+	font-weight: 400;
+	color: white;
+	background-color: black;
+	border-radius: .25rem;
+	text-align: center;
+}
+
+.message {
+	margin-top: 25px;
+	padding: 15px;
+	font-size: 1.4em;
+}
+
+.red {
+	color: red;
+}
+
+.big {
+	font-size: 3em;
+	text-align: center;
+}
+
+.tiny {
+	font-size: 1.2em;
+	vertical-align: top;
+	text-align: left;
+}
+
+.card {
+	display: inline-block;
+	margin: auto;
+	padding: 20px;
+	height: 120px;
+	width: 90px;
+	background-color: whitesmoke;
+	border: 1px solid black;
+	border-radius: 5px;
+	box-shadow: 5px 10px #333;
+	margin: 5px;
+}
