@@ -7,9 +7,9 @@ Starting May 24, 2021, I will code for at least an hour every day for the next 1
 1. I will [tweet](https://twitter.com/mariaionova) about my progress every day using the hashtag #100DaysOfCode
 2. I will push the code to GitHub every day.
 3. I will update the [Daily Log](#daily-log) section below with my daily progress and provide a link so others can see my progress.
-4. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses, and other similar resources will _not_ count towards this challenge, but I can use the exercises for the challenge if I code them myself before or after watching the solution.
+4. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses, and other similar resources will _not_ count towards this challenge, but I can use the exercises if I code them myself before or after watching the solution.
 5. I am allowed to skip a day every two weeks if life gets in the way, but I will need to add a day to the challenge for every day that I have skipped.
-6. While solving the challenges, I will be solely focused on JavaScript and will be using HTML/CSS if the files are provided. Designing beautiful and usable interfaces will be out of scope for this challenge, but I will try to come back and revisit the look and feel after the challenger is over.
+6. While solving the challenges, I will solely focus on JavaScript and use HTML/CSS if the files are provided. Designing beautiful and usable interfaces will be out of scope for this challenge, but I will try to come back and revisit the look and feel after the challenger is over.
 
 Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.   
 &nbsp;  
@@ -18,9 +18,9 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 
 ### Day 1 of 100
   
-**Today's JavaScript Progress**: May 24, 2021
+**Date**: May 24, 2021
   
-**Date**: Reviewed some fundamental programming concepts and syntax of the JavaScript programming language that I've learned in the past:
+**Today's JavaScript Progress**: Reviewed some fundamental programming concepts and syntax of the JavaScript programming language that I've learned in the past:
   
 1. Created a function that returns the larger of two numbers.
 2. Displayed a story based on user input.
@@ -119,7 +119,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 2. Create a couple of functions to add to inventory and to process a sale.
 3. Write a couple of more functions, one to return a list of the names of all products and another one to calculate the total value of all the products in the array.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-008)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-008)   
 &nbsp;  
 
 ### Day 9 of 100
@@ -141,7 +141,7 @@ I'm creating an app that displays famous random quotes each time a button is cli
 
 Currently, the app displays famous random quotes each time a button is clicked and works as expected! I might try adding some bells and whistles over the next couple of days.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-010)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-010)   
 &nbsp;  
 
 ### Day 11 of 100
@@ -313,7 +313,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Today's JavaScript Progress**: Started coding an RSVP application that allows for keeping track of who's coming and editing the guest list - WIP (HTML+CSS provided).
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-024)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-024)   
 &nbsp;  
 
 ### Day 25 of 100
@@ -592,7 +592,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
 **Today's JavaScript Progress**: Spent some time to learn how closures are used to preserve data between function calls:
 
 1. The problem with globals
-2. What is closure?
+2. What is a closure?
 3. Using closures to fix the problem with globals
 4. Uses for closers
 
@@ -932,7 +932,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 25, 2021
 
-**Today's JavaScript Progress**: As part of Wes Bos’s Javascript30 course, I coded a pattern similar to Gmail where you hold shift to check multiple checkboxes.
+**Today's JavaScript Progress**: As part of Wes Bos’s Javascript30 course, I coded a pattern similar to Gmail where you hold Shift to check multiple checkboxes.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-088)   
 &nbsp; 
@@ -952,16 +952,16 @@ Currently, the app displays famous random quotes each time a button is clicked a
 
 **Today's JavaScript Progress**: Started coding the Rock Paper, Scissors game. 
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-090)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-090)   
 &nbsp;  
      
 ### Day 91 of 100
   
 **Date**: August 28, 2021
 
-**Today's JavaScript Progress**: Almost done with the Rock, Paper, Scissors game. Working on some refinements and final touches. Stay tuned!
+**Today's JavaScript Progress**: Almost done with the Rock, Paper, Scissors game. I am working on some refinements and final touches. Stay tuned!
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-091)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-091)   
 &nbsp;  
      
 ### Day 92 of 100
@@ -970,7 +970,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
 
 **Today's JavaScript Progress**: Spent some time fixing a bug that I found in my Rock, Paper, Scissors game. I'm almost done! 
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-092)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-092)   
 &nbsp;  
      
 ### Day 93 of 100
@@ -979,7 +979,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
 
 **Today's JavaScript Progress**: My Rock, Paper, Scissors game is fully functional now!
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-093)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-093)   
 &nbsp;  
      
 ### Day 94 of 100
@@ -988,14 +988,14 @@ Currently, the app displays famous random quotes each time a button is clicked a
 
 **Today's JavaScript Progress**: Changed the logic of the Rock, Paper, Scissors game to add another mode. 
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-094)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-094)   
 &nbsp;  
      
 ### Day 95 of 100
   
 **Date**: September 1, 2021
 
-**Today's JavaScript Progress**: Started coding a Blackjack game. I think the biggest struggle is that I have never played Blackjack before...
+**Today's JavaScript Progress**: Added buttons and did a few more refinements to the Rock, Paper, Scissors game. One day I will need to make this responsive.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-095)   
 &nbsp; 
@@ -1004,18 +1004,18 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: September 2, 2021
 
-**Today's JavaScript Progress**: Continued coding the Blackjack game. I am dedicating about an hour per day, so it will take me a few days.
+**Today's JavaScript Progress**: Started coding a Blackjack game. I think the biggest struggle is that I have never played Blackjack before...
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-096)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-096)   
 &nbsp; 
      
 ### Day 97 of 100
   
 **Date**: September 3, 2021
 
-**Today's JavaScript Progress**: Made some progress with coding the Blackjack game. 
+**Today's JavaScript Progress**: Continued coding the Blackjack game. I am dedicating about an hour per day, so it will take me a few days. 
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-097)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-097)   
 &nbsp; 
      
 ### Day 98 of 100
@@ -1024,7 +1024,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
 
 **Today's JavaScript Progress**: The Blackjack game I am working on is beginning to take shape!
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-098)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-098)   
 &nbsp; 
      
 ### Day 99 of 100
@@ -1033,14 +1033,14 @@ Currently, the app displays famous random quotes each time a button is clicked a
 
 **Today's JavaScript Progress**: Still working on the Blackjack game. Coded for an hour but did not make as much progress as I wanted to.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-099)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-099)   
 &nbsp; 
      
 ### Day 100 of 100
   
 **Date**: September 7, 2021
 
-**Today's JavaScript Progress**: The Blackjack game is super close to being finished but it needs a little more work. I'd just say this was a hell of a challenge, but I might do it again ¯\_(ツ)_/¯.
+**Today's JavaScript Progress**: The Blackjack game is super close to being finished, but it needs a little more work. I'd just say this was a hell of a challenge, but I might do it again ¯\_(ツ)_/¯.
 
-[View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-100)   
+[View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-100)   
 &nbsp; 
