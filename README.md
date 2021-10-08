@@ -746,7 +746,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: July 31th, 2021
 
-**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I made a JS drum kit that is sweet to play. When you hit the key on your keyboard, it does two things - it plays the sound associated with that key, and it also shows a short animation.
+**Today's JavaScript Progress**: Started Wes Boss's Javascript30 course. Many of the exercises through the end of the challenge are taken from this course (as indicated in the code.) For my first project in the course, I made a JS drum kit that is pretty sweet to play. When you hit the key on your keyboard, it does two things - it plays the sound associated with that key, and it also shows a short animation!
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-065)   
 &nbsp; 
@@ -755,7 +755,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 1, 2021
 
-**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I built a cool CSS + JS clock.
+**Today's JavaScript Progress**: Built a cool CSS + JS clock.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-066)   
 &nbsp; 
@@ -764,7 +764,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 2, 2021
 
-**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I did an exercise to update CSS variables with JavaScript. 
+**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I completed an exercise to update CSS variables with JavaScript. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-067)   
 &nbsp;  
@@ -773,7 +773,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 3, 2021
 
-**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I initialized a typeahead with JavaScript. 
+**Today's JavaScript Progress**: Initialized a typeahead with JavaScript. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-068)   
 &nbsp; 
@@ -782,7 +782,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 5, 2021
 
-**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I learned about speech recognition in browsers. Very impressive that you can do this in the browser without any other libraries or external APIs!
+**Today's JavaScript Progress**: Learned about speech recognition in browsers. Very impressive that you can do this in the browser without any other libraries or external APIs!
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-069)   
 &nbsp; 
@@ -791,7 +791,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 6, 2021
 
-**Today's JavaScript Progress**: I spent a whole hour learning the ins and outs of markdown. 
+**Today's JavaScript Progress**: Spent a whole hour learning the ins and outs of markdown. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-070)   
 &nbsp;  
@@ -801,7 +801,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 7, 2021
 
-**Today's JavaScript Progress**: I built a slide-in on scroll so that the images slide into view when the user scrolls down on a page. 
+**Today's JavaScript Progress**: Built a slide-in on scroll so that the images slide into view when the user scrolls down on a page. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-071)   
 &nbsp;  
@@ -810,7 +810,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 8, 2021
 
-**Today's JavaScript Progress**: As part of the JavaScript30 course, I built a custom interface for an HTML5 video player with play/pause buttons, a slider, skip buttons, and a speed controller. 
+**Today's JavaScript Progress**: Built a custom interface for an HTML5 video player with play/pause buttons, a slider, skip buttons, and a speed controller. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-072)   
 &nbsp;  
@@ -819,7 +819,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 9, 2021
 
-**Today's JavaScript Progress**: As part of Wes Boss's JavaScript30 course, I played with the speech synthesis API that comes with most modern browsers!!
+**Today's JavaScript Progress**: Learned about and practiced using the speech synthesis API that comes with most modern browsers!!
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-073)   
 &nbsp;  
@@ -828,7 +828,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 10, 2021
 
-**Today's JavaScript Progress**: As part of Wes Boss's JavaScript30 course, I played with CSS Text Shadow Mouse Move Effect and created a Sticky Nav!
+**Today's JavaScript Progress**: Practiced using the CSS Text Shadow Mouse Move Effect and created a Sticky Nav!
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-074)   
 &nbsp;  
@@ -837,7 +837,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 11, 2021
 
-**Today's JavaScript Progress**: As part of Wes Boss's JavaScript30 course, I created a countdown clock Clock face two o'clock!!
+**Today's JavaScript Progress**: Created a countdown clock Clock face two o'clock!!
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-075)   
 &nbsp;  
@@ -855,7 +855,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 13, 2021
 
-**Today's JavaScript Progress**: As part of Wess Boss's JavaScript30 course, I built a geolocation-based speedometer and compass! 
+**Today's JavaScript Progress**: Coded a geolocation-based speedometer and compass! 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-077)   
 &nbsp;  
@@ -864,7 +864,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 14, 2021
 
-**Today's JavaScript Progress**: As part of Wess Boss's JavaScript30 course, I built a sticky nav and a follow-along dropdown. 
+**Today's JavaScript Progress**: Built a sticky nav and a follow-along dropdown. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-078)   
 &nbsp;  
@@ -873,7 +873,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 15, 2021
 
-**Today's JavaScript Progress**: As part of Wes Boss's JavaScript30 course, I learned and practiced local storage and event delegation.
+**Today's JavaScript Progress**: Learned and practiced local storage and event delegation.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-079)   
 &nbsp;  
@@ -882,7 +882,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 16, 2021
 
-**Today's JavaScript Progress**: As part of Wes Bos's JavaScript30 course, I played with a video speed controller UI.
+**Today's JavaScript Progress**: Experimented with a video speed controller UI.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-080)   
 &nbsp;  
@@ -891,7 +891,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 17, 2021
 
-**Today's JavaScript Progress**: As part of Wes Bos's JavaScript30 course, I made a photo booth.
+**Today's JavaScript Progress**: Made a JavaScript photo booth.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-081)   
 &nbsp;  
@@ -909,7 +909,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 19, 2021
 
-**Today's JavaScript Progress**: As part of Wes Bos's JavaScript30 course, I made some progress towards the Build a Whack a Mole Game.
+**Today's JavaScript Progress**: Made progress in building a Whack a Mole Game.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-083)   
 &nbsp;  
@@ -936,7 +936,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 23th, 2021
 
-**Today's JavaScript Progress**: As part of the Javascript30 course, I went through a whole bunch of examples to get better at core array methods: map, sort, filter, reduce, etc.
+**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I completed a host of exercises designed to help build expertise in the core array methods: map, sort, filter, reduce, etc.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-086)   
 &nbsp; 
@@ -945,7 +945,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 24, 2021
 
-**Today's JavaScript Progress**: Today's JavaScript Progress: As part of the Javascript30 course, I practiced a additional array methods: .some, .every, .find, .findIndex, etc.
+**Today's JavaScript Progress**: Practiced additional array methods: .some, .every, .find, .findIndex, etc.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-087)   
 &nbsp;  
@@ -954,7 +954,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 25, 2021
 
-**Today's JavaScript Progress**: As part of Wes Bos’s Javascript30 course, I coded a UI pattern similar to Gmail where you hold Shift to check multiple checkboxes.
+**Today's JavaScript Progress**: Coded a UI pattern similar to Gmail where you hold Shift to check multiple checkboxes.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-088)   
 &nbsp; 
@@ -963,7 +963,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 26, 2021
 
-**Today's JavaScript Progress**: As part of Wes Bos's Javascript30 course, I had some fun with the HTML5 Canvas. 
+**Today's JavaScript Progress**: I had fun learning about and practicing using the HTML5 Canvas. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-089)   
 &nbsp;  
@@ -981,7 +981,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 28, 2021
 
-**Today's JavaScript Progress**: Almost done with the Rock, Paper, Scissors game. I am working on some refinements and final touches. Stay tuned!
+**Today's JavaScript Progress**: Made significant progress on the Rock, Paper, Scissors game. I'm working on some refinements and final touches. Stay tuned!
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-091)   
 &nbsp;  
@@ -990,7 +990,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: August 29, 2021
 
-**Today's JavaScript Progress**: Spent some time fixing a bug that I found in my Rock, Paper, Scissors game. I'm almost done! 
+**Today's JavaScript Progress**: Spent time fixing a bug that I found in my Rock, Paper, Scissors game. I'm almost done! 
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-092)   
 &nbsp;  
@@ -1017,7 +1017,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: September 1, 2021
 
-**Today's JavaScript Progress**: Added buttons and did a few more refinements to the Rock, Paper, Scissors game. One day I will need to make this responsive.
+**Today's JavaScript Progress**: Added buttons and completed a few more refinements to the Rock, Paper, Scissors game. One day I hope to come back to the project and make it responsive.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-095)   
 &nbsp; 
@@ -1026,7 +1026,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: September 2, 2021
 
-**Today's JavaScript Progress**: Started coding a Blackjack game. I think the biggest struggle is that I have never played Blackjack before...
+**Today's JavaScript Progress**: Started coding a Blackjack game. (The biggest struggle is that I have never played Blackjack before...)
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-096)   
 &nbsp; 
@@ -1035,7 +1035,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: September 3, 2021
 
-**Today's JavaScript Progress**: Continued coding the Blackjack game. I am dedicating roughly an hour per day, so it may take me a few days. 
+**Today's JavaScript Progress**: Continued coding the Blackjack game. I'm spending only an hour per day on the project, so it may take a while to complete. 
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-097)   
 &nbsp; 
@@ -1044,7 +1044,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: September 5, 2021
 
-**Today's JavaScript Progress**: The Blackjack game I am working on is beginning to take shape!
+**Today's JavaScript Progress**: The Blackjack game I'm working on is beginning to take shape!
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-098)   
 &nbsp; 
@@ -1062,7 +1062,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: September 7, 2021
 
-**Today's JavaScript Progress**: The Blackjack game is super close to being finished, but it does still need a little more work. This was a hell of a challenge, but I might do it again ¯\_(ツ)_/¯.
+**Today's JavaScript Progress**: The Blackjack game is close to being finished, but it does still need a little more work. This was a hell of a challenge! As tough as it was, I might actually do it again! ¯\_(ツ)_/¯
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-100)   
 &nbsp; 
