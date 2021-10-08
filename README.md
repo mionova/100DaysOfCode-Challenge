@@ -7,9 +7,9 @@ Starting May 24, 2021, I will code for at least an hour every day for the next 1
 1. I will [tweet](https://twitter.com/mariaionova) about my progress every day using the hashtag #100DaysOfCode
 2. I will push the code to GitHub every day.
 3. I will update the [Daily Log](#daily-log) section below with my daily progress and provide a link so others can see my progress.
-4. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses, and other similar resources will _not_ count towards this challenge, but I can use the exercises if I code them myself before or after watching the solution.
-5. I am allowed to skip a day every two weeks if life gets in the way, but I will need to add a day to the challenge for every day that I have skipped.
-6. While solving the challenges, I will solely focus on JavaScript and use HTML/CSS if the files are provided. Designing beautiful and usable interfaces will be out of scope for this challenge, but I will try to come back and revisit the look and feel after the challenger is over.
+4. I will work on real projects, facing real challenges. The time spent on tutorials, online courses, and other similar resources will _not_ count towards this challenge, but I can use the exercises if I code them myself before or after watching the solution.
+5. I will allow myself to skip a day every two weeks if life gets in the way, but I'll need to add a day to the challenge for every day that I have skipped.
+6. While solving the challenges, I will focus solely on JavaScript and use HTML/CSS if the files are provided. Designing beautiful and usable interfaces will not be part of this challenge, but I will try to come back and revisit look & feel after the challenge is over.
 
 Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.   
 &nbsp;  
@@ -20,11 +20,11 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: May 24, 2021
   
-**Today's JavaScript Progress**: Reviewed some fundamental programming concepts and syntax of the JavaScript programming language that I've learned in the past:
+**Today's JavaScript Progress**: Reviewed fundamental JavaScript programming concepts and syntax that I've learned in the past, and completed three challenges:
   
-1. Created a function that returns the larger of two numbers.
-2. Displayed a story based on user input.
-3. Coded a Quiz of 5 questions.
+1. Create a function that returns the larger of two numbers.
+2. Display d a story based on user input.
+3. Code a 5-question Quiz.
   
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-001)   
 &nbsp;  
@@ -33,7 +33,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: May 25, 2021
   
-**Today's Progress**: Reviewed JavaScript Numbers and JavaScript Functions that I've learned in the past and solved the following challenges:
+**Today's Progress**: Reviewed what I learned in the past about the number data type and various JavaScript methods, and solved the following challenges:
   
 1. Generate a random number in a given range.
 2. Count the characters in a name.
@@ -46,11 +46,11 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: May 26, 2021
   
-**Today's JavaScript Progress**: Continued reviewing JavaScript Basics that I've learned in the past and solved the following challenges:
+**Today's JavaScript Progress**: Continued reviewing JavaScript basics that I've learned in the past and solved the following challenges:
   
-1. Template literals + dynamic HTML.
-2. Basic math operations based on user input.
-3. Arrow functions.
+1. Use template literals + dynamic HTML.
+2. Complete basic math operations based on user input.
+3. Code fat arrow functions.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-003)   
 &nbsp;  
@@ -59,11 +59,11 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: May 27, 2021
   
-**Today's JavaScript Progress**: Focused on JavaScript functions and solved the following challenges:
+**Today's JavaScript Progress**: Focused on JavaScript function declarations and solved the following challenges:
   
-1. Write a few simple functions that calculate area and volume.
+1. Write simple functions that calculate area and volume.
 2. Display HTML dynamically using a loop.
-3. Generate ten circles on the screen with randomly generated backgrounds.
+3. Generate ten circles on the screen with random background colors.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-004)   
 &nbsp;  
@@ -72,11 +72,11 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: May 28, 2021
   
-**Today's Progress**: Continued reviewing JavaScript basics and completed the following exercises:
+**Today's Progress**: Continued reviewing JavaScript basics and completed three exercises:
   
-1. Display a list of songs from an array on a web page.
-2. Check if a product is in stock and how it is positioned on the list.
-3. Build a Quiz by creating a multidimensional array to hold quiz questions and answers.
+1. Display a list of songs from an array.
+2. Check if a product is in stock and determine its position on the product list.
+3. Build a Quiz using a multidimensional array to hold quiz questions and answers.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-005)   
 &nbsp;  
@@ -87,9 +87,9 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Today's JavaScript Progress**: Reviewed JavaScript Objects and completed the following exercises:
   
-1. Loop through an object.
-2. Convert an array of arrays into various objects (so I can use property names to identify the data).
-3. Create a script that builds a pet directory, then displays it on the page using an array of 'pet' objects.
+1. Loop through an object's properties using for...in.
+2. Convert an array of arrays into various objects (so I can use property names to identify the data). <!--- I took a quick look at the code and I don't think this describes what  Day 006-02 is actually doing... but I didn't want to just totally rewrite it because maybe the wrong code is in there! -JC --->
+3. Write a script that builds a pet directory (an array of 'pet' objects), then displays the pet directory data on a web page.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-006)   
 &nbsp;  
@@ -98,13 +98,13 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: May 30, 2021
   
-**Today's JavaScript Progress**: Practiced JavaScript Loops, Arrays, and Objects by doing the following:
+**Today's JavaScript Progress**: Practiced JavaScript loops, arrays, and Objects by completing five challenges:
   
-1. Use a loop to create a number guessing game while tracking the guess attempts.
-2. Practice Let and Const in JavaScript.
+1. Use a loop to create a number guessing game while tracking the user's guess attempts.
+2. Practice let and const in JavaScript.
 3. Practice Array Methods.
-4. Create a function that generates an array of 10 random numbers.
-5. Create a multidimensional array of 52 elements (52 cards), and return them shuffled when the function is called.
+4. Write a function that generates an array of 10 random numbers.
+5. Create a multidimensional array of 52 elements (52 cards), and write a function that returns them shuffled when the function is called.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-007)   
 &nbsp;  
@@ -113,12 +113,13 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: May 31, 2021
   
-**Today's JavaScript Progress**: Practiced Object Literals in JavaScript and wrote a few scripts:
+**Today's JavaScript Progress**: Practiced Object literals in JavaScript and completed three tasks:
   
-1. Create a simple object and print the properties and values to the console.
-2. Create a couple of functions to add to inventory and to process a sale.
-3. Write a couple of more functions, one to return a list of the names of all products and another one to calculate the total value of all the products in the array.
+1. Create an object and print its properties and values to the console.
+2. Create functions to add items to inventory and process a sales transaction.
+3. Write functions to return a list of the names of all products in an array, and to calculate the total value of all the products in the array.
 
+<!-- Should the links for this day and the next still say 'in progress'? -JC -->
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-008)   
 &nbsp;  
 
@@ -126,10 +127,10 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
   
 **Date**: June 1, 2021
   
-**Today's JavaScript Progress**: I made some progress on a little project: A Random Quote Generator
+**Today's JavaScript Progress**: I made progress on a Random Quote Generator project.
 
-I'm creating an app that displays famous random quotes each time a button is clicked for this project. All quotes have a source, but some also show a citation and year.
-
+I'm creating an app that displays famous random quotes each time a button is clicked. All quotes have an author attributed, but some also show a citation and the year of the quote.
+<!-- Originally this said source & citation, but... those could mean the same thing so I attempted to clarify -->
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-009)   
 &nbsp;  
 
@@ -137,9 +138,9 @@ I'm creating an app that displays famous random quotes each time a button is cli
   
 **Date**: June 2, 2021
   
-**Today's JavaScript Progress**: I finalized my Random Quote Generator
+**Today's JavaScript Progress**: Finalized my Random Quote Generator.
 
-Currently, the app displays famous random quotes each time a button is clicked and works as expected! I might try adding some bells and whistles over the next couple of days.
+The app displays famous random quotes each time a button is clicked, and works as expected! I might try adding some bells and whistles over the next couple of days.
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-010)   
 &nbsp;  
@@ -148,11 +149,11 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 3, 2021
   
-**Today's JavaScript Progress**: Refactored a bit and added the following features to the Random Quote Generator:
+**Today's JavaScript Progress**: Refactored my Random Quote Generator a bit and added the following features:
 
-1. Auto-refreshed quotes using a timing function
-2. When a new quote prints to the page, the background color changes to a random color.
-3. Increased the quote object properties
+1. Quotes auto-refresh using a timing function
+2. When a new quote is displayed, the background color changes to a random color.
+3. The quote object now has additional properties as well
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-011)   
 &nbsp;  
@@ -161,7 +162,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 4, 2021
   
-**Today's JavaScript Progress**: Lightweight practice with functions, arrays, and random numbers. Used JavaScript to create a function that grabs a random number from an array. And then, I called that function a couple of times to simulate a dice roll game between two players.
+**Today's JavaScript Progress**: Practiced using functions, arrays, and random numbers. I used JavaScript to create a function that grabs a random number from an array, then called that function multiple times to simulate a dice roll game between two players.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-012)   
 &nbsp;  
@@ -170,11 +171,11 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 5, 2021
   
-**Today's JavaScript Progress**: Mainly practiced writing conditions and ways to select and manipulate elements on the page (DOM basics). Solved the following challenges:
+**Today's JavaScript Progress**: Practiced writing conditions and selecting/manipulating elements in the DOM. Solved the following challenges:
   
-1. Select an element with JavaScript and change its color on click
+1. Select an element with JavaScript and change its color when clicked.
 2. Practice selecting DOM elements and listening for events.
-3. Build a string conditionally from the properties of a provided random object. Then print that string to the page.
+3. Build a string conditionally from the properties of a provided random object, then print that string to the page.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-013)   
 &nbsp;  
@@ -183,7 +184,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 6, 2021
   
-**Today's JavaScript Progress**: Continued getting a handle on the DOM by practicing to:
+**Today's JavaScript Progress**: Continued building DOM manipulation expertise by completing four exercises:
   
 1. Select all elements of a particular type.
 2. Select element by class.
@@ -197,10 +198,10 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 7, 2021
   
-**Today's JavaScript Progress**: Continued getting a handle on the DOM by practicing to:
+**Today's JavaScript Progress**: Continued building DOM manipulation expertise with four additional exercises:
   
-1. Select elements.
-2. Get and Set Text with textContent and innerHTML.
+1. Select specific elements in the DOM.
+2. Get and set text with Element.textContent and Element.innerHTML.
 3. Set Element.attribute and Element.className.
 4. Hide and show content at a click of a button.
 
@@ -211,11 +212,11 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 8, 2021
   
-**Today's JavaScript Progress**: Continued making changes to the DOM by practicing to:
+**Today's JavaScript Progress**: Continued learning methods for making changes to the DOM by practicing how to:
   
-1. Create-DOM elements.
+1. Create DOM elements.
 2. Append nodes to add elements to the DOM.
-3. Remove nodes to remove an element from the DOM.
+3. Remove nodes to remove elements from the DOM.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-016)   
 &nbsp;  
@@ -224,11 +225,11 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 10, 2021
   
-**Today's JavaScript Progress**: Continued making changes to the DOM by practicing responses to user interactions, such as:
+**Today's JavaScript Progress**: Continued mastering the DOM by learning responses to user interactions through these exercises:
   
-1. Listening for Events with addEventListener().
-2. Event Bubbling and Delegation.
-3. Event object.
+1. Listen for Events with addEventListener().
+2. Build a page that helps demonstrate event Bubbling and delegation.
+3. Practice accessing and using the Event object.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-017)   
 &nbsp;  
@@ -237,12 +238,12 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 11, 2021
   
-**Today's JavaScript Progress**: Continued making changes to the DOM by practicing:
+**Today's JavaScript Progress**: Continued learning about the DOM through four additional exercises:
   
-1. Setting up functions as parameters.
-2. Delaying execution of a function with setTime().
-3. Using parent node.
-4. Using the previous sibling element.
+1. Set up functions as parameters.
+2. Delay execution of a function with setTimeout().
+3. Write a script that uses the parent node of an element.
+4. Write a script that uses the previous sibling of an element.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-018)   
 &nbsp;  
@@ -265,11 +266,12 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 13, 2021
   
-**Today's JavaScript Progress**: Continued with traversing the DOM and practiced the following:
+**Today's JavaScript Progress**: Continued traversing the DOM and practiced the following tasks:
   
-1. Next element sibling
-2. Getting all children
-3. Getting first and last child
+1. Write a script that access the next element sibling
+2. Write a script that gets all children of an element
+3. Write a script that gets the first and last child of an element
+<!-- I didn't look at the code for this --- node might be the preferred word to use instead of element depending on how you wrote your code -JC -->
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-020)   
 &nbsp;  
@@ -278,7 +280,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 14, 2021
   
-**Today's JavaScript Progress**: Refactored some old exercises and explored the what and why of pseudocode by taking a simple specification and converting it into pseudocode. I also tried pseudocode for loops and functions.
+**Today's JavaScript Progress**: Refactored old exercises and explored the what & why of pseudocode by taking a simple specification and converting it into pseudocode. I also tried pseudocode for loops and functions.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-021)   
 &nbsp;  
@@ -290,7 +292,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
 **Today's JavaScript Progress**: Completed the following challenges:
   
 1. Translate pseudocode to functioning JavaScript code
-2. Select DOM elements(review)
+2. Select DOM elements (review)
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-022)    
 &nbsp;  
@@ -299,10 +301,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 16, 2021
   
-**Today's JavaScript Progress**: Various changes to the DOM:
-  
-1. Manipulating the DOM practice
-2. Traversing the DOM practice
+**Today's JavaScript Progress**: Additional practice manipulating and traversing the DOM. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-023)   
 &nbsp;  
@@ -311,7 +310,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 17, 2021
   
-**Today's JavaScript Progress**: Started coding an RSVP application that allows for keeping track of who's coming and editing the guest list - WIP (HTML+CSS provided).
+**Today's JavaScript Progress**: Started coding an RSVP application that allows the user to keep track of confirmed attendees and edit the guest list. (HTML+CSS provided).
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-024)   
 &nbsp;  
@@ -320,7 +319,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 18, 2021
   
-**Today's JavaScript Progress**: Finished the RSVP's application (HTML+CSS provided). I was very sick and unproductive-the second dose hit me pretty hard.
+**Today's JavaScript Progress**: Finished the RSVP application. I was sick and unproductive - the second dose hit me pretty hard.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-025)   
 &nbsp;  
@@ -329,7 +328,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 19, 2021
 
-**Today's JavaScript Progress**: Lightweight algorithms practice. Still sick and unproductive from the second dose of the COVID vaccine.
+**Today's JavaScript Progress**: Algorithms practice. Still sick and unproductive from the second dose of the COVID vaccine.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-026)   
 &nbsp;  
@@ -338,7 +337,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 21, 2021
 
-**Today's JavaScript Progress**: Review of some of the DOM concepts. More algorithms practice!
+**Today's JavaScript Progress**: Review of some of the DOM concepts, and more algorithms practice!
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-027)   
 &nbsp;  
@@ -347,7 +346,10 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 22, 2021
 
-**Today's JavaScript Progress**: Review of more DOM concepts. More algorithms practice!
+**Today's JavaScript Progress**: Review of more DOM concepts and some additional algorithms practice, including the following challenges:
+1. Write a function that converts an integer into a Roman Numeral String.
+2. Compare two arrays and return a new array with any items only found in one of the two given arrays, but not both.
+3. Write a blackjack card counting function that advises the user on whether to bet or hold.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-028)   
 &nbsp;  
@@ -356,7 +358,9 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 23, 2021
 
-**Today's JavaScript Progress**: Review of some additional DOM concepts. More algorithms practice!
+**Today's JavaScript Progress**: More algorithms practice!
+1. Find the smallest common multiple of a range of numbers.
+2. Sum all the prime numbers smaller or equal to a MAX number.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-029)   
 &nbsp;  
@@ -365,7 +369,12 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 24, 2021
 
-**Today's JavaScript Progress**: Review of some additional DOM concepts. More algorithms practice!
+**Today's JavaScript Progress**: Completed the following algorithm challenges:
+1. Write a string repeater With optional delimiter
+2. Iterate a nested array with a for loop
+3. Implement a Search And Destroy function that eliminates all occurrences of a target from an array
+4. Calculate the factorial of a number
+5. Write a range function that takes two arguments, start and end, and returns an array containing all the numbers from start up to (and including) end.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-030)   
 &nbsp;  
@@ -374,7 +383,12 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 25, 2021
 
-**Today's JavaScript Progress**: Another day of practicing algorithms.
+**Today's JavaScript Progress**: Another day of practicing algorithms. The exercises I completed today focused on the following Array methods:
+1. Array.prototype.sort()
+2. Array.prototype.every()
+3. Array.prototype.some()
+4. Array.prototype.slice()
+I also completed challenges on the 'this' object and wrote a function to generate a chessboard pattern made out of "#" and " ".
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-031)   
 &nbsp;  
@@ -383,7 +397,11 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 26, 2021
 
-**Today's JavaScript Progress**: One more day of practicing algorithms while going over all the DOM stuff.
+**Today's JavaScript Progress**: An additional day of practicing algorithms while finalizing my review of DOM concepts and methods. Challenges included:
+1. Use regex to replace 'hello' with 'good morning'
+2. Construct a Regex that will find any combination of numbers
+3. Use the 'global' regex flag to replace all occurrences of a word in a target sentence with a replacement word.
+4. Find and return the missing letter in a string of the form "abcd...xyz"
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-032)   
 &nbsp;  
@@ -392,7 +410,9 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 27, 2021
 
-**Today's JavaScript Progress**: One more day of algorithms and DOM manipulation with lots of note-taking.
+**Today's JavaScript Progress**: One more day of algorithms and DOM manipulation with lots of note-taking. Challenges today included:
+1. Write a function that calculates the sum of ODD fibonacci numbers smaller than or equal to a given MAX number.
+2. Find the smallest common multiple of a range of numbers.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-033)   
 &nbsp;  
@@ -402,6 +422,8 @@ Currently, the app displays famous random quotes each time a button is clicked a
 **Date**: June 28, 2021
 
 **Today's JavaScript Progress**: Hopefully, last day of algorithms:
+1. Implement a function that will remove elements of an array from index 0 as long as the given test function returns false.
+2. Write a function to find the additive persistence of a number.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-034)   
 &nbsp;  
@@ -419,7 +441,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: June 30, 2021
 
-**Today's JavaScript Progress**: Debugging JavaScript in the browser using buggy code that was provided. For some weird reason, I struggled a bit.
+**Today's JavaScript Progress**: Debugging JavaScript in the browser using buggy code that was provided. I struggled a bit with this one.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-036)   
 &nbsp;  
@@ -428,7 +450,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 1, 2021
 
-**Today's JavaScript Progress**: Wrote a lightweight program that creates, appends, and modifies DOM elements and their attributes (a warm-up for an upcoming project).
+**Today's JavaScript Progress**: Wrote a program that creates, appends, and modifies DOM elements and their attributes (a warm-up for an upcoming project).
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-037)   
 &nbsp;  
@@ -438,6 +460,8 @@ Currently, the app displays famous random quotes each time a button is clicked a
 **Date**: July 2, 2021
 
 **Today's JavaScript Progress**: Solved a couple of JS challenges:
+1. Flatten (remove) nested structures from data values such as Arrays and Objects.
+2. Calculate the number of unique permutations from a given string.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-038)   
 &nbsp;  
@@ -446,7 +470,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 3, 2021
 
-**Today's JavaScript Progress**: Took a few (not very difficult) JS quizzes requiring coding answers:
+**Today's JavaScript Progress**: Took several JS quizzes requiring coding answers:
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-039)   
 &nbsp;  
@@ -455,7 +479,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 4, 2021
 
-**Today's JavaScript Progress**: Practiced creating simple functions and programming them with parameters and arguments (a warm-up for an upcoming project).
+**Today's JavaScript Progress**: Practiced creating function declarations and programming their parameters and arguments (warm-up for an upcoming project).
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-040)   
 &nbsp;  
@@ -464,7 +488,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 6, 2021
 
-**Today's JavaScript Progress**: Practiced List Section Selection (a warm-up for an upcoming project) and did a few quiz questions.
+**Today's JavaScript Progress**: Practiced List Section Selection (a warm-up for an upcoming project) and completed quiz questions.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-041)   
 &nbsp;  
@@ -473,7 +497,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 7, 2021
 
-**Today's JavaScript Progress**: Practiced working with a short collection of buttons. Used JavaScript to remove the "active" class name from all buttons and add it to the most recently clicked button.
+**Today's JavaScript Progress**: Practiced working with a collection of buttons. Used JavaScript to remove the "active" class name from all buttons and add it to the most recently clicked one.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-042)   
 &nbsp;  
@@ -482,7 +506,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 8, 2021
 
-**Today's JavaScript Progress**: Practiced simple search (a warm-up for an upcoming project).
+**Today's JavaScript Progress**: Practiced search (a warm-up for an upcoming project).
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-043)   
 &nbsp;  
@@ -509,7 +533,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 11, 2021
 
-**Today's JavaScript Progress**: Continued working on the project that involves data pagination and filtering. Currently, everything is functioning as expected - the list of students is displayed dynamically on the page using pagination. Yay!!! The next step would be adding filtering functionality and refactoring the code. 
+**Today's JavaScript Progress**: Continued working on the project that involves data pagination and filtering. Currently, everything is functioning as expected - the list of students is displayed dynamically on the page using pagination. Yay!!! The next steps will be adding filtering functionality and refactoring the code. 
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-046)   
 &nbsp;    
@@ -518,7 +542,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 12, 2021
 
-**Today's JavaScript Progress**: Continued working on the project that involves data pagination and filtering. Found a bug during QA testing and did some refactoring to fix it. 
+**Today's JavaScript Progress**: Continued working on the data pagination and filtering project. Found a bug during QA testing and did some refactoring to fix it. 
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-047)   
 &nbsp;     
@@ -545,7 +569,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 15, 2021
 
-**Today's HTML Progress**: Since I will be working on an interactive JS form soon, I took the time to review HTML forms and form elements. I also dug into JavaScript history for a little bit. 
+**Today's HTML Progress**: Since I will be working on an interactive JS form soon, I took the time to review HTML forms and form elements. I also spent time learning about the history of JavaScript. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-050)   
 &nbsp;      
@@ -554,7 +578,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 16, 2021
 
-**Today's HTML Progress**: Learning more about accessibility is a valuable way to improve code quality. Today, I took the time to expand my knowledge on making an accessible form, and I've built the example below as a result.
+**Today's HTML Progress**: Learning more about accessibility is a valuable way to improve code quality. Today, I took the time to expand my knowledge on creating an accessible form, and I built the example below as a result.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-051)   
 &nbsp;       
@@ -563,11 +587,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 17, 2021
 
-**Today's JavaScript Progress**: Got some practice using regular expressions and built a form that uses regular expressions to validate the data typed in. 
-  
-1. Using Regular Expressions
-2. Flags (to change what the regular expression matches)
-3. Validating a form (username, password, phone, email)
+**Today's JavaScript Progress**: Got some practice using regular expressions, and built a form that uses regular expressions to validate common types of form input including username, password, phone, and email. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-052)   
 &nbsp;        
@@ -576,11 +596,12 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 18, 2021
 
-**Today's JavaScript Progress**: Continued with the regex stuff:
+**Today's JavaScript Progress**: Continued building regex skills by completing the following challenges:
 
-1. Solved a couple of challenges: I had to write a validator for a hexadecimal string used to set a CSS and a second one where I had to assign a replacement string to a variable.
-2. Used 'replace' with captured groups
-2. Reformatted user input (masking a phone number)
+1. Write a validator for a hexadecimal string used to set a CSS property
+2. Write a validator that assigns a replacement string to a variable.
+2. Use 'replace' with captured groups
+2. Reformat user input (mask a phone number)
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-053)   
 &nbsp;        
@@ -589,7 +610,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 20, 2021
 
-**Today's JavaScript Progress**: Spent some time to learn how closures are used to preserve data between function calls:
+**Today's JavaScript Progress**: Studied how closures are used to preserve data between function calls:
 
 1. The problem with globals
 2. What is a closure?
@@ -603,7 +624,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 21th, 2021
 
-**Today's JavaScript Progress**: Learned about asynchronous JavaScript and XML, or AJAX – how it works and who uses it.
+**Today's JavaScript Progress**: Learned about asynchronous JavaScript and XML (AJAX) – how it works and who uses it.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-055)   
 &nbsp;       
@@ -612,7 +633,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 22, 2021
 
-**Today's JavaScript Progress**: Continued learning about asynchronous JavaScript and XML, or AJAX.
+**Today's JavaScript Progress**: Continued learning about AJAX.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-056)   
 &nbsp;      
@@ -621,7 +642,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 23, 2021
 
-**Today's JavaScript Progress**: Concluded learning about asynchronous JavaScript and XML, or AJAX.
+**Today's JavaScript Progress**: Concluded learning about AJAX.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-057)   
 &nbsp;      
@@ -630,11 +651,11 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 24, 2021
 
-**Today's JavaScript Progress**: Looked into callback functions and built a few simple projects using them. Also very jet-lagged at the moment.
+**Today's JavaScript Progress**: Studied callback functions and wrote several scripts that use them. Very jet-lagged at the moment.
 
-1. Introduction to callback functions
-2. Using a one-off timer with setTimeout
-3. Using a repeat timer with setInterval
+1. Learn the different ways of using callback functions
+2. Use a one-off timer with setTimeout
+3. Use a repeat timer with setInterval
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-058)   
 &nbsp; 
@@ -644,11 +665,11 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 25, 2021
 
-**Today's JavaScript Progress**: Continued with callback functions and simple projects using them:
+**Today's JavaScript Progress**: Continued with callback functions and projects that use them:
 
-1. Quiz questions: Trigger start animation function 2 sec after the page loads + Add an event listener to every button on a page
-2. Callbacks with Arguments
-3. Using callbacks on text inputs
+1. Quiz questions: Trigger a start animation function 2 seconds after the page loads, and add an event listener to every button on a page
+2. Pass argumen to callback functions
+3. Use callbacks on text input
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-059)   
 &nbsp;  
@@ -668,14 +689,14 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 27, 2021
 
-**Today's JavaScript Progress**: Continued with asynchronous programming with JavaScript by practicing the following:
+**Today's JavaScript Progress**: Continued with asynchronous programming by practicing the following:
 
 1. Create a promise 
 2. Reject a promise and handle errors
 3. Transition from callbacks to promises
 4. Handle multiple promises with Promise all
 5. Perform cleanup with finally
-6. Using fetch
+6. Use fetch
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-061)   
 &nbsp; 
@@ -685,11 +706,11 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 28, 2021
 
-**Today's JavaScript Progress**: Continued with asynchronous programming with JavaScript by exploring async/await:
+**Today's JavaScript Progress**: Continued with asynchronous programming by demonstrating competence in using async/await:
 
 1. Convert Promise handling to async/await
 2. Combine async/await with promises
-3. Error handling with try/catch
+3. Practice error handling with try/catch
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-062)   
 &nbsp; 
@@ -699,11 +720,11 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 29, 2021
 
-**Today's JavaScript Progress**: Learned about working with the Fetch API by:
+**Today's JavaScript Progress**: Learned about working with the Fetch API by completing the following exercises:
 
-1. Writing a basic fetch request
-2. Displaying the content
-3. Creating a reusable fetch function
+1. Write a basic fetch request
+2. Display the content
+3. Create a reusable fetch function
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-063)   
 &nbsp; 
@@ -712,11 +733,11 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 30, 2021
 
-**Today's JavaScript Progress**: Continued learning about working with the Fetch API by:
+**Today's JavaScript Progress**: Continued learning about working with the Fetch API through three additional exercises:
 
-1. Handling errors
+1. Practice handling errors
 2. Manage multiple requests with Promise. all
-3. Posting data with fetch()
+3. Post data with fetch()
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-064)   
 &nbsp; 
@@ -725,7 +746,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: July 31th, 2021
 
-**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I made a JS drum kit that is sweet to play. When you hit the key on your keyboard, it does two things - it plays the sound associated with that key, and it also does a short animation.
+**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I made a JS drum kit that is sweet to play. When you hit the key on your keyboard, it does two things - it plays the sound associated with that key, and it also shows a short animation.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-065)   
 &nbsp; 
@@ -761,7 +782,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 5, 2021
 
-**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I learned all about speech recognition in browsers. Very impressive that you can do this in the browser without any other libraries or external APIs.
+**Today's JavaScript Progress**: As part of Wes Boss's Javascript30 course, I learned about speech recognition in browsers. Very impressive that you can do this in the browser without any other libraries or external APIs!
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-069)   
 &nbsp; 
@@ -774,12 +795,13 @@ Currently, the app displays famous random quotes each time a button is clicked a
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-070)   
 &nbsp;  
-     
+
+<!--- Not sure if you noticed, but the code for days 70 - 78, 81, 83-84, 90-92, and 99 are not on Github... so the links don't link to anything. --->
 ### Day 71 of 100
   
 **Date**: August 7, 2021
 
-**Today's JavaScript Progress**: I built a slide-in on scroll so that the images slide themselves in when the user scrolls down. 
+**Today's JavaScript Progress**: I built a slide-in on scroll so that the images slide into view when the user scrolls down on a page. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-071)   
 &nbsp;  
@@ -788,7 +810,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 8, 2021
 
-**Today's JavaScript Progress**: As part of the JavaScript30 course, I built a custom interface of an HTML5 video player with play/pause buttons, a slider, skip buttons, a speed controller. 
+**Today's JavaScript Progress**: As part of the JavaScript30 course, I built a custom interface for an HTML5 video player with play/pause buttons, a slider, skip buttons, and a speed controller. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-072)   
 &nbsp;  
@@ -824,8 +846,8 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 12, 2021
 
-**Today's JavaScript Progress**: Created a cool CSS Text Shadow Mouse move effect so that when you move your mouse over the top of the window, the shadow starts to follow you around. 
-
+**Today's JavaScript Progress**: Created a cool CSS Text Shadow Mouse move effect so that when you move your mouse over the top of the window, the shadow follows you around. 
+<!-- Should 'over the top of the window' be 'into the viewport'? -->
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-076)   
 &nbsp;  
      
@@ -887,7 +909,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 19, 2021
 
-**Today's JavaScript Progress**: As part of Wes Bos's JavaScript30 course, I made some progress towards the Built a Whack a Mole Game.
+**Today's JavaScript Progress**: As part of Wes Bos's JavaScript30 course, I made some progress towards the Build a Whack a Mole Game.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-083)   
 &nbsp;  
@@ -896,7 +918,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 20, 2021
 
-**Today's JavaScript Progress**: Completed Whack a Mole game that was part of JavaScript30 course. When you run it, you get these little critters popping up in random holes for random amounts of time. You need to click them to get a point. 
+**Today's JavaScript Progress**: Completed Whack a Mole game. When you run it, you get these little critters popping up in random holes for random amounts of time. When you successfully click them, you score a point. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-084)   
 &nbsp; 
@@ -905,7 +927,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 22th, 2021
 
-**Today's JavaScript Progress**: Fixed a bug that I found in the Whack a Mole game that I completed yesterday.  
+**Today's JavaScript Progress**: Fixed a bug in the Whack a Mole game.  
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-085)   
 &nbsp; 
@@ -914,7 +936,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 23th, 2021
 
-**Today's JavaScript Progress**: As part of the Javascript30 course, I went through a whole bunch of examples to get better at some array methods: map, sort, filter, reduce, etc.
+**Today's JavaScript Progress**: As part of the Javascript30 course, I went through a whole bunch of examples to get better at core array methods: map, sort, filter, reduce, etc.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-086)   
 &nbsp; 
@@ -923,7 +945,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 24, 2021
 
-**Today's JavaScript Progress**: Today's JavaScript Progress: As part of the Javascript30 course, I practiced a few more array methods: .some, .every, .find, .findIndex, etc.
+**Today's JavaScript Progress**: Today's JavaScript Progress: As part of the Javascript30 course, I practiced a additional array methods: .some, .every, .find, .findIndex, etc.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-087)   
 &nbsp;  
@@ -932,7 +954,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 25, 2021
 
-**Today's JavaScript Progress**: As part of Wes Bos’s Javascript30 course, I coded a pattern similar to Gmail where you hold Shift to check multiple checkboxes.
+**Today's JavaScript Progress**: As part of Wes Bos’s Javascript30 course, I coded a UI pattern similar to Gmail where you hold Shift to check multiple checkboxes.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-088)   
 &nbsp; 
@@ -950,7 +972,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 27, 2021
 
-**Today's JavaScript Progress**: Started coding the Rock Paper, Scissors game. 
+**Today's JavaScript Progress**: Started coding a Rock Paper, Scissors game. 
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-090)   
 &nbsp;  
@@ -977,7 +999,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 30, 2021
 
-**Today's JavaScript Progress**: My Rock, Paper, Scissors game is fully functional now!
+**Today's JavaScript Progress**: My Rock, Paper, Scissors game is now fully functional!
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-093)   
 &nbsp;  
@@ -986,7 +1008,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: August 31, 2021
 
-**Today's JavaScript Progress**: Changed the logic of the Rock, Paper, Scissors game to add another mode. 
+**Today's JavaScript Progress**: Changed the logic of the Rock, Paper, Scissors game to add an additional mode. 
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-094)   
 &nbsp;  
@@ -1013,7 +1035,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: September 3, 2021
 
-**Today's JavaScript Progress**: Continued coding the Blackjack game. I am dedicating about an hour per day, so it will take me a few days. 
+**Today's JavaScript Progress**: Continued coding the Blackjack game. I am dedicating roughly an hour per day, so it may take me a few days. 
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-097)   
 &nbsp; 
@@ -1040,7 +1062,7 @@ Currently, the app displays famous random quotes each time a button is clicked a
   
 **Date**: September 7, 2021
 
-**Today's JavaScript Progress**: The Blackjack game is super close to being finished, but it needs a little more work. I'd just say this was a hell of a challenge, but I might do it again ¯\_(ツ)_/¯.
+**Today's JavaScript Progress**: The Blackjack game is super close to being finished, but it does still need a little more work. This was a hell of a challenge, but I might do it again ¯\_(ツ)_/¯.
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-100)   
 &nbsp; 
