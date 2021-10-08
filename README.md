@@ -9,7 +9,7 @@ Starting May 24, 2021, I will code for at least an hour every day for the next 1
 3. I will update the [Daily Log](#daily-log) section below with my daily progress and provide a link so others can see my progress.
 4. I will work on real projects, facing real challenges. The time spent on tutorials, online courses, and other similar resources will _not_ count towards this challenge, but I can use the exercises if I code them myself before or after watching the solution.
 5. I will allow myself to skip a day every two weeks if life gets in the way, but I'll need to add a day to the challenge for every day that I have skipped.
-6. While solving the challenges, I will focus solely on JavaScript and use HTML/CSS if the files are provided. Designing beautiful and usable interfaces will not be part of this challenge, but I will try to come back and revisit look & feel after the challenge is over.
+6. While solving the challenges, I will focus solely on JavaScript and use HTML/CSS only if the starter files are provided. Designing beautiful and usable interfaces will not be part of this challenge, but I will try to come back and revisit look & feel after the challenge is over.
 
 Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.   
 &nbsp;  
@@ -88,8 +88,9 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 **Today's JavaScript Progress**: Reviewed JavaScript Objects and completed the following exercises:
   
 1. Loop through an object's properties using for...in.
-2. Convert an array of arrays into various objects (so I can use property names to identify the data). <!--- I took a quick look at the code and I don't think this describes what  Day 006-02 is actually doing... but I didn't want to just totally rewrite it because maybe the wrong code is in there! -JC --->
+2. Convert an array of arrays into various objects (so I can use property names to identify the data).  
 3. Write a script that builds a pet directory (an array of 'pet' objects), then displays the pet directory data on a web page.
+<!--- I took a quick look at the code and I don't think #2 describes what Day 006-02 is actually doing... but I didn't want to just totally rewrite it because maybe the wrong code is in there! -JC --->
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-006)   
 &nbsp;  
@@ -104,7 +105,7 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 2. Practice let and const in JavaScript.
 3. Practice Array Methods.
 4. Write a function that generates an array of 10 random numbers.
-5. Create a multidimensional array of 52 elements (52 cards), and write a function that returns them shuffled when the function is called.
+5. Create a multidimensional array of 52 elements (cards), and write a function that returns them shuffled when the function is called.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-007)   
 &nbsp;  
@@ -252,7 +253,7 @@ The app displays famous random quotes each time a button is clicked, and works a
   
 **Date**: June 12, 2021
   
-**Today's JavaScript Progress**: Refactored code that was provided to practice the following code structure methodologies:
+**Today's JavaScript Progress**: Refactored code that was provided, in order to practice the following code structure methodologies:
   
 1. Narrative flow
 2. Iterative coding
@@ -387,7 +388,8 @@ The app displays famous random quotes each time a button is clicked, and works a
 1. Array.prototype.sort()
 2. Array.prototype.every()
 3. Array.prototype.some()
-4. Array.prototype.slice()
+4. Array.prototype.slice()  
+  
 I also completed challenges on the 'this' object and wrote a function to generate a chessboard pattern made out of "#" and " ".
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-031)   
@@ -432,7 +434,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: June 29, 2021
 
-**Today's JavaScript Progress**: Debugging JavaScript in the browser using provided code with various bugs.
+**Today's JavaScript Progress**: Debugged JavaScript in the browser using provided code with various bugs.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-035)   
 &nbsp;  
@@ -441,7 +443,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: June 30, 2021
 
-**Today's JavaScript Progress**: Debugging JavaScript in the browser using buggy code that was provided. I struggled a bit with this one.
+**Today's JavaScript Progress**: Debugged JavaScript in the browser using buggy code that was provided. I struggled a bit with this one.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-036)   
 &nbsp;  
@@ -459,7 +461,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: July 2, 2021
 
-**Today's JavaScript Progress**: Solved a couple of JS challenges:
+**Today's JavaScript Progress**: Completed two JS challenges:
 1. Flatten (remove) nested structures from data values such as Arrays and Objects.
 2. Calculate the number of unique permutations from a given string.
 
@@ -470,7 +472,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: July 3, 2021
 
-**Today's JavaScript Progress**: Took several JS quizzes requiring coding answers:
+**Today's JavaScript Progress**: Took several JS quizzes requiring coding answers.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-039)   
 &nbsp;  
@@ -515,7 +517,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: July 9, 2021
 
-**Today's JavaScript Progress**: I started working on a project that involves data pagination and filtering. Stay tuned!!!
+**Today's JavaScript Progress**: Started working on a project that involves data pagination and filtering. Stay tuned!!!
 
 [View Work In Progress](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-044)   
 &nbsp;   
@@ -569,7 +571,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: July 15, 2021
 
-**Today's HTML Progress**: Since I will be working on an interactive JS form soon, I took the time to review HTML forms and form elements. I also spent time learning about the history of JavaScript. 
+**Today's HTML Progress**: Since I'll be working on an interactive JS form soon, I reviewed HTML forms and form elements. I also spent time learning about the history of JavaScript. 
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-050)   
 &nbsp;      
@@ -578,7 +580,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: July 16, 2021
 
-**Today's HTML Progress**: Learning more about accessibility is a valuable way to improve code quality. Today, I took the time to expand my knowledge on creating an accessible form, and I built the example below as a result.
+**Today's HTML Progress**: Learning more about accessibility is a valuable way to improve code quality. Today, I expanded my knowledge on creating an accessible form, and I built the example below.
 
 [View Work](https://github.com/mionova/100DaysOfCode-Challenge/tree/main/code/Day-051)   
 &nbsp;       
@@ -689,7 +691,7 @@ I also completed challenges on the 'this' object and wrote a function to generat
   
 **Date**: July 27, 2021
 
-**Today's JavaScript Progress**: Continued with asynchronous programming by practicing the following:
+**Today's JavaScript Progress**: Continued with asynchronous programming by practicing the following tasks:
 
 1. Create a promise 
 2. Reject a promise and handle errors
