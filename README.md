@@ -1,4 +1,4 @@
-# 100 Days of Code Challenge
+# 100DaysOfCode Challenge
 
 ## Commitment
 
